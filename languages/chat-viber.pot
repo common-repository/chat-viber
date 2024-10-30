@@ -1,0 +1,3098 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Viber Chat Support\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-06-11 04:04+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.9; wp-6.5.4\n"
+"X-Domain: chat-viber"
+
+#. 1: Elementor
+#: view/elementor-widgets/elementor-widget.php:214
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" to be installed and activated."
+msgstr ""
+
+#. 1: Elementor 2: Required Elementor version
+#. 1: PHP 2: Required PHP version
+#: view/elementor-widgets/elementor-widget.php:235
+#: view/elementor-widgets/elementor-widget.php:254
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:24
+msgid "008801813381520"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:29
+#: view/shortcodes/custom-shortcode.php:30
+#: view/shortcodes/custom-shortcode.php:31
+#: view/shortcodes/custom-shortcode.php:32
+#: view/shortcodes/custom-shortcode.php:33
+#: view/shortcodes/custom-shortcode.php:34
+#: view/shortcodes/custom-shortcode.php:35
+msgid "00:00-23:59"
+msgstr ""
+
+#: inc/vc-plugin-options.php:913 inc/vc-plugin-options.php:931
+#: inc/vc-plugin-options.php:949 inc/vc-plugin-options.php:967
+#: inc/vc-plugin-options.php:985 inc/vc-plugin-options.php:1003
+#: inc/vc-plugin-options.php:1021
+msgid "24-hour Time without PM:AM\" eg: From 00:00 to 23:59"
+msgstr ""
+
+#: inc/vc-plugin-options.php:75
+msgid "Add add custom message for shoing in message box."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:90
+msgid "Add agent photo to show in button."
+msgstr ""
+
+#: inc/vc-plugin-options.php:43
+msgid "Add agent photo to show in the bubble."
+msgstr ""
+
+#: inc/vc-plugin-options.php:191
+msgid "Add chat button text"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:159
+msgid "Add custom badget text when user in offline."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:145
+msgid "Add custom badget text when user in online."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:134
+msgid "Add custom button label."
+msgstr ""
+
+#: inc/vc-plugin-options.php:66
+msgid "Add subtitle to show under agent name"
+msgstr ""
+
+#: inc/vc-plugin-options.php:34 view/elementor-widgets/widgets/buttons.php:65
+msgid "Add your viber number including country code. eg: 00880123456189"
+msgstr ""
+
+#: inc/vc-plugin-options.php:57
+msgid "Add your/agent name for shoing in bubble."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:79
+msgid "Advanced button"
+msgstr ""
+
+#: inc/vc-plugin-options.php:305 view/elementor-widgets/widgets/buttons.php:196
+msgid "Africa/Abidjan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:306 view/elementor-widgets/widgets/buttons.php:197
+msgid "Africa/Accra"
+msgstr ""
+
+#: inc/vc-plugin-options.php:307 view/elementor-widgets/widgets/buttons.php:198
+msgid "Africa/Addis_Ababa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:308 view/elementor-widgets/widgets/buttons.php:199
+msgid "Africa/Algiers"
+msgstr ""
+
+#: inc/vc-plugin-options.php:309 view/elementor-widgets/widgets/buttons.php:200
+msgid "Africa/Asmara"
+msgstr ""
+
+#: inc/vc-plugin-options.php:310 view/elementor-widgets/widgets/buttons.php:201
+msgid "Africa/Asmera"
+msgstr ""
+
+#: inc/vc-plugin-options.php:311 view/elementor-widgets/widgets/buttons.php:202
+msgid "Africa/Bamako"
+msgstr ""
+
+#: inc/vc-plugin-options.php:312 view/elementor-widgets/widgets/buttons.php:203
+msgid "Africa/Bangui"
+msgstr ""
+
+#: inc/vc-plugin-options.php:313 view/elementor-widgets/widgets/buttons.php:204
+msgid "Africa/Banjul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:314 view/elementor-widgets/widgets/buttons.php:205
+msgid "Africa/Bissau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:315 view/elementor-widgets/widgets/buttons.php:206
+msgid "Africa/Blantyre"
+msgstr ""
+
+#: inc/vc-plugin-options.php:316 view/elementor-widgets/widgets/buttons.php:207
+msgid "Africa/Brazzaville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:317 view/elementor-widgets/widgets/buttons.php:208
+msgid "Africa/Bujumbura"
+msgstr ""
+
+#: inc/vc-plugin-options.php:318 view/elementor-widgets/widgets/buttons.php:209
+msgid "Africa/Cairo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:319 view/elementor-widgets/widgets/buttons.php:210
+msgid "Africa/Casablanca"
+msgstr ""
+
+#: inc/vc-plugin-options.php:320 view/elementor-widgets/widgets/buttons.php:211
+msgid "Africa/Ceuta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:321 view/elementor-widgets/widgets/buttons.php:212
+msgid "Africa/Conakry"
+msgstr ""
+
+#: inc/vc-plugin-options.php:322 view/elementor-widgets/widgets/buttons.php:213
+msgid "Africa/Dakar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:323 view/elementor-widgets/widgets/buttons.php:214
+msgid "Africa/Dar_es_Salaam"
+msgstr ""
+
+#: inc/vc-plugin-options.php:324 view/elementor-widgets/widgets/buttons.php:215
+msgid "Africa/Djibouti"
+msgstr ""
+
+#: inc/vc-plugin-options.php:325 view/elementor-widgets/widgets/buttons.php:216
+msgid "Africa/Douala"
+msgstr ""
+
+#: inc/vc-plugin-options.php:326 view/elementor-widgets/widgets/buttons.php:217
+msgid "Africa/El_Aaiun"
+msgstr ""
+
+#: inc/vc-plugin-options.php:327 view/elementor-widgets/widgets/buttons.php:218
+msgid "Africa/Freetown"
+msgstr ""
+
+#: inc/vc-plugin-options.php:328 view/elementor-widgets/widgets/buttons.php:219
+msgid "Africa/Gaborone"
+msgstr ""
+
+#: inc/vc-plugin-options.php:329 view/elementor-widgets/widgets/buttons.php:220
+msgid "Africa/Harare"
+msgstr ""
+
+#: inc/vc-plugin-options.php:330 view/elementor-widgets/widgets/buttons.php:221
+msgid "Africa/Johannesburg"
+msgstr ""
+
+#: inc/vc-plugin-options.php:331 view/elementor-widgets/widgets/buttons.php:222
+msgid "Africa/Juba"
+msgstr ""
+
+#: inc/vc-plugin-options.php:332 view/elementor-widgets/widgets/buttons.php:223
+msgid "Africa/Kampala"
+msgstr ""
+
+#: inc/vc-plugin-options.php:333 view/elementor-widgets/widgets/buttons.php:224
+msgid "Africa/Khartoum"
+msgstr ""
+
+#: inc/vc-plugin-options.php:334 view/elementor-widgets/widgets/buttons.php:225
+msgid "Africa/Kigali"
+msgstr ""
+
+#: inc/vc-plugin-options.php:335 view/elementor-widgets/widgets/buttons.php:226
+msgid "Africa/Kinshasa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:336 view/elementor-widgets/widgets/buttons.php:227
+msgid "Africa/Lagos"
+msgstr ""
+
+#: inc/vc-plugin-options.php:337 view/elementor-widgets/widgets/buttons.php:228
+msgid "Africa/Libreville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:338 view/elementor-widgets/widgets/buttons.php:229
+msgid "Africa/Lome"
+msgstr ""
+
+#: inc/vc-plugin-options.php:339 view/elementor-widgets/widgets/buttons.php:230
+msgid "Africa/Luanda"
+msgstr ""
+
+#: inc/vc-plugin-options.php:340 view/elementor-widgets/widgets/buttons.php:231
+msgid "Africa/Lubumbashi"
+msgstr ""
+
+#: inc/vc-plugin-options.php:341 view/elementor-widgets/widgets/buttons.php:232
+msgid "Africa/Lusaka"
+msgstr ""
+
+#: inc/vc-plugin-options.php:342 view/elementor-widgets/widgets/buttons.php:233
+msgid "Africa/Malabo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:343 view/elementor-widgets/widgets/buttons.php:234
+msgid "Africa/Maputo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:344 view/elementor-widgets/widgets/buttons.php:235
+msgid "Africa/Maseru"
+msgstr ""
+
+#: inc/vc-plugin-options.php:345 view/elementor-widgets/widgets/buttons.php:236
+msgid "Africa/Mbabane"
+msgstr ""
+
+#: inc/vc-plugin-options.php:346 view/elementor-widgets/widgets/buttons.php:237
+msgid "Africa/Mogadishu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:347 view/elementor-widgets/widgets/buttons.php:238
+msgid "Africa/Monrovia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:348 view/elementor-widgets/widgets/buttons.php:239
+msgid "Africa/Nairobi"
+msgstr ""
+
+#: inc/vc-plugin-options.php:349 view/elementor-widgets/widgets/buttons.php:240
+msgid "Africa/Ndjamena"
+msgstr ""
+
+#: inc/vc-plugin-options.php:350 view/elementor-widgets/widgets/buttons.php:241
+msgid "Africa/Niamey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:351 view/elementor-widgets/widgets/buttons.php:242
+msgid "Africa/Nouakchott"
+msgstr ""
+
+#: inc/vc-plugin-options.php:352 view/elementor-widgets/widgets/buttons.php:243
+msgid "Africa/Ouagadougou"
+msgstr ""
+
+#: inc/vc-plugin-options.php:353 view/elementor-widgets/widgets/buttons.php:244
+msgid "Africa/Porto-Novo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:354 view/elementor-widgets/widgets/buttons.php:245
+msgid "Africa/Sao_Tome"
+msgstr ""
+
+#: inc/vc-plugin-options.php:355 view/elementor-widgets/widgets/buttons.php:246
+msgid "Africa/Timbuktu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:356 view/elementor-widgets/widgets/buttons.php:247
+msgid "Africa/Tripoli"
+msgstr ""
+
+#: inc/vc-plugin-options.php:357 view/elementor-widgets/widgets/buttons.php:248
+msgid "Africa/Tunis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:358 view/elementor-widgets/widgets/buttons.php:249
+msgid "Africa/Windhoek"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:119
+msgid "Agent designation"
+msgstr ""
+
+#: inc/vc-plugin-options.php:56 view/elementor-widgets/widgets/buttons.php:105
+msgid "Agent name"
+msgstr ""
+
+#: inc/vc-plugin-options.php:42 view/elementor-widgets/widgets/buttons.php:89
+msgid "Agent photo"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1326
+msgid "Alignment"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Allow your users to send you direct Viber messages by clicking floating chat "
+"button and buttons with shortcode or elementor widgets"
+msgstr ""
+
+#: inc/vc-plugin-options.php:359 view/elementor-widgets/widgets/buttons.php:250
+msgid "America/Adak"
+msgstr ""
+
+#: inc/vc-plugin-options.php:360 view/elementor-widgets/widgets/buttons.php:251
+msgid "America/Anchorage"
+msgstr ""
+
+#: inc/vc-plugin-options.php:361 view/elementor-widgets/widgets/buttons.php:252
+msgid "America/Anguilla"
+msgstr ""
+
+#: inc/vc-plugin-options.php:362 view/elementor-widgets/widgets/buttons.php:253
+msgid "America/Antigua"
+msgstr ""
+
+#: inc/vc-plugin-options.php:363 inc/vc-plugin-options.php:408
+#: inc/vc-plugin-options.php:410 view/elementor-widgets/widgets/buttons.php:254
+#: view/elementor-widgets/widgets/buttons.php:299
+#: view/elementor-widgets/widgets/buttons.php:301
+msgid "America/Araguaina"
+msgstr ""
+
+#: inc/vc-plugin-options.php:364 view/elementor-widgets/widgets/buttons.php:255
+msgid "America/Argentina/Buenos_Aires"
+msgstr ""
+
+#: inc/vc-plugin-options.php:365 view/elementor-widgets/widgets/buttons.php:256
+msgid "America/Argentina/Catamarca"
+msgstr ""
+
+#: inc/vc-plugin-options.php:366 view/elementor-widgets/widgets/buttons.php:257
+msgid "America/Argentina/ComodRivadavia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:367 view/elementor-widgets/widgets/buttons.php:258
+msgid "America/Argentina/Cordoba"
+msgstr ""
+
+#: inc/vc-plugin-options.php:368 view/elementor-widgets/widgets/buttons.php:259
+msgid "America/Argentina/Jujuy"
+msgstr ""
+
+#: inc/vc-plugin-options.php:369 view/elementor-widgets/widgets/buttons.php:260
+msgid "America/Argentina/La_Rioja"
+msgstr ""
+
+#: inc/vc-plugin-options.php:370 view/elementor-widgets/widgets/buttons.php:261
+msgid "America/Argentina/Mendoza"
+msgstr ""
+
+#: inc/vc-plugin-options.php:371 view/elementor-widgets/widgets/buttons.php:262
+msgid "America/Argentina/Rio_Gallegos"
+msgstr ""
+
+#: inc/vc-plugin-options.php:372 view/elementor-widgets/widgets/buttons.php:263
+msgid "America/Argentina/Salta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:373 view/elementor-widgets/widgets/buttons.php:264
+msgid "America/Argentina/San_Juan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:374 view/elementor-widgets/widgets/buttons.php:265
+msgid "America/Argentina/San_Luis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:375 view/elementor-widgets/widgets/buttons.php:266
+msgid "America/Argentina/Tucuman"
+msgstr ""
+
+#: inc/vc-plugin-options.php:376 view/elementor-widgets/widgets/buttons.php:267
+msgid "America/Argentina/Ushuaia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:377 view/elementor-widgets/widgets/buttons.php:268
+msgid "America/Aruba"
+msgstr ""
+
+#: inc/vc-plugin-options.php:378 view/elementor-widgets/widgets/buttons.php:269
+msgid "America/Asuncion"
+msgstr ""
+
+#: inc/vc-plugin-options.php:379 view/elementor-widgets/widgets/buttons.php:270
+msgid "America/Atikokan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:380 view/elementor-widgets/widgets/buttons.php:271
+msgid "America/Atka"
+msgstr ""
+
+#: inc/vc-plugin-options.php:381 view/elementor-widgets/widgets/buttons.php:272
+msgid "America/Bahia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:382 view/elementor-widgets/widgets/buttons.php:273
+msgid "America/Bahia_Banderas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:383 view/elementor-widgets/widgets/buttons.php:274
+msgid "America/Barbados"
+msgstr ""
+
+#: inc/vc-plugin-options.php:384 view/elementor-widgets/widgets/buttons.php:275
+msgid "America/Belem"
+msgstr ""
+
+#: inc/vc-plugin-options.php:385 view/elementor-widgets/widgets/buttons.php:276
+msgid "America/Belize"
+msgstr ""
+
+#: inc/vc-plugin-options.php:386 view/elementor-widgets/widgets/buttons.php:277
+msgid "America/Blanc-Sablon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:387 view/elementor-widgets/widgets/buttons.php:278
+msgid "America/Boa_Vista"
+msgstr ""
+
+#: inc/vc-plugin-options.php:388 view/elementor-widgets/widgets/buttons.php:279
+msgid "America/Bogota"
+msgstr ""
+
+#: inc/vc-plugin-options.php:389 view/elementor-widgets/widgets/buttons.php:280
+msgid "America/Boise"
+msgstr ""
+
+#: inc/vc-plugin-options.php:390 view/elementor-widgets/widgets/buttons.php:281
+msgid "America/Buenos_Aires"
+msgstr ""
+
+#: inc/vc-plugin-options.php:391 view/elementor-widgets/widgets/buttons.php:282
+msgid "America/Cambridge_Bay"
+msgstr ""
+
+#: inc/vc-plugin-options.php:392 view/elementor-widgets/widgets/buttons.php:283
+msgid "America/Campo_Grande"
+msgstr ""
+
+#: inc/vc-plugin-options.php:393 view/elementor-widgets/widgets/buttons.php:284
+msgid "America/Cancun"
+msgstr ""
+
+#: inc/vc-plugin-options.php:394 view/elementor-widgets/widgets/buttons.php:285
+msgid "America/Caracas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:395 view/elementor-widgets/widgets/buttons.php:286
+msgid "America/Catamarca"
+msgstr ""
+
+#: inc/vc-plugin-options.php:396 view/elementor-widgets/widgets/buttons.php:287
+msgid "America/Cayenne"
+msgstr ""
+
+#: inc/vc-plugin-options.php:397 view/elementor-widgets/widgets/buttons.php:288
+msgid "America/Cayman"
+msgstr ""
+
+#: inc/vc-plugin-options.php:398 view/elementor-widgets/widgets/buttons.php:289
+msgid "America/Chicago"
+msgstr ""
+
+#: inc/vc-plugin-options.php:399 view/elementor-widgets/widgets/buttons.php:290
+msgid "America/Chihuahua"
+msgstr ""
+
+#: inc/vc-plugin-options.php:400 view/elementor-widgets/widgets/buttons.php:291
+msgid "America/Coral_Harbour"
+msgstr ""
+
+#: inc/vc-plugin-options.php:401 view/elementor-widgets/widgets/buttons.php:292
+msgid "America/Cordoba"
+msgstr ""
+
+#: inc/vc-plugin-options.php:402 view/elementor-widgets/widgets/buttons.php:293
+msgid "America/Costa_Rica"
+msgstr ""
+
+#: inc/vc-plugin-options.php:403 view/elementor-widgets/widgets/buttons.php:294
+msgid "America/Creston"
+msgstr ""
+
+#: inc/vc-plugin-options.php:404 view/elementor-widgets/widgets/buttons.php:295
+msgid "America/Cuiaba"
+msgstr ""
+
+#: inc/vc-plugin-options.php:405 view/elementor-widgets/widgets/buttons.php:296
+msgid "America/Curacao"
+msgstr ""
+
+#: inc/vc-plugin-options.php:406 view/elementor-widgets/widgets/buttons.php:297
+msgid "America/Danmarkshavn"
+msgstr ""
+
+#: inc/vc-plugin-options.php:407 view/elementor-widgets/widgets/buttons.php:298
+msgid "America/Dawson"
+msgstr ""
+
+#: inc/vc-plugin-options.php:409 view/elementor-widgets/widgets/buttons.php:300
+msgid "America/Denver"
+msgstr ""
+
+#: inc/vc-plugin-options.php:411 view/elementor-widgets/widgets/buttons.php:302
+msgid "America/Dominica"
+msgstr ""
+
+#: inc/vc-plugin-options.php:412 view/elementor-widgets/widgets/buttons.php:303
+msgid "America/Edmonton"
+msgstr ""
+
+#: inc/vc-plugin-options.php:413 view/elementor-widgets/widgets/buttons.php:304
+msgid "America/Eirunepe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:414 view/elementor-widgets/widgets/buttons.php:305
+msgid "America/El_Salvador"
+msgstr ""
+
+#: inc/vc-plugin-options.php:415 view/elementor-widgets/widgets/buttons.php:306
+msgid "America/Ensenada"
+msgstr ""
+
+#: inc/vc-plugin-options.php:416 view/elementor-widgets/widgets/buttons.php:307
+msgid "America/Fort_Nelson"
+msgstr ""
+
+#: inc/vc-plugin-options.php:417 view/elementor-widgets/widgets/buttons.php:308
+msgid "America/Fort_Wayne"
+msgstr ""
+
+#: inc/vc-plugin-options.php:418 view/elementor-widgets/widgets/buttons.php:309
+msgid "America/Fortaleza"
+msgstr ""
+
+#: inc/vc-plugin-options.php:419 view/elementor-widgets/widgets/buttons.php:310
+msgid "America/Glace_Bay"
+msgstr ""
+
+#: inc/vc-plugin-options.php:420 view/elementor-widgets/widgets/buttons.php:311
+msgid "America/Godthab"
+msgstr ""
+
+#: inc/vc-plugin-options.php:421 view/elementor-widgets/widgets/buttons.php:312
+msgid "America/Goose_Bay"
+msgstr ""
+
+#: inc/vc-plugin-options.php:422 view/elementor-widgets/widgets/buttons.php:313
+msgid "America/Grand_Turk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:423 view/elementor-widgets/widgets/buttons.php:314
+msgid "America/Grenada"
+msgstr ""
+
+#: inc/vc-plugin-options.php:424 view/elementor-widgets/widgets/buttons.php:315
+msgid "America/Guadeloupe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:425 view/elementor-widgets/widgets/buttons.php:316
+msgid "America/Guatemala"
+msgstr ""
+
+#: inc/vc-plugin-options.php:426 view/elementor-widgets/widgets/buttons.php:317
+msgid "America/Guayaquil"
+msgstr ""
+
+#: inc/vc-plugin-options.php:427 view/elementor-widgets/widgets/buttons.php:318
+msgid "America/Guyana"
+msgstr ""
+
+#: inc/vc-plugin-options.php:428 view/elementor-widgets/widgets/buttons.php:319
+msgid "America/Halifax"
+msgstr ""
+
+#: inc/vc-plugin-options.php:429 view/elementor-widgets/widgets/buttons.php:320
+msgid "America/Havana"
+msgstr ""
+
+#: inc/vc-plugin-options.php:430 view/elementor-widgets/widgets/buttons.php:321
+msgid "America/Hermosillo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:432 view/elementor-widgets/widgets/buttons.php:323
+msgid "America/Indiana/Knox"
+msgstr ""
+
+#: inc/vc-plugin-options.php:433 view/elementor-widgets/widgets/buttons.php:324
+msgid "America/Indiana/Marengo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:434 view/elementor-widgets/widgets/buttons.php:325
+msgid "America/Indiana/Petersburg"
+msgstr ""
+
+#: inc/vc-plugin-options.php:435 view/elementor-widgets/widgets/buttons.php:326
+msgid "America/Indiana/Tell_City"
+msgstr ""
+
+#: inc/vc-plugin-options.php:436 view/elementor-widgets/widgets/buttons.php:327
+msgid "America/Indiana/Vevay"
+msgstr ""
+
+#: inc/vc-plugin-options.php:437 view/elementor-widgets/widgets/buttons.php:328
+msgid "America/Indiana/Vincennes"
+msgstr ""
+
+#: inc/vc-plugin-options.php:438 view/elementor-widgets/widgets/buttons.php:329
+msgid "America/Indiana/Winamac"
+msgstr ""
+
+#: inc/vc-plugin-options.php:439 view/elementor-widgets/widgets/buttons.php:330
+msgid "America/Indianapolis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:440 view/elementor-widgets/widgets/buttons.php:331
+msgid "America/Inuvik"
+msgstr ""
+
+#: inc/vc-plugin-options.php:441 view/elementor-widgets/widgets/buttons.php:332
+msgid "America/Iqaluit"
+msgstr ""
+
+#: inc/vc-plugin-options.php:442 view/elementor-widgets/widgets/buttons.php:333
+msgid "America/Jamaica"
+msgstr ""
+
+#: inc/vc-plugin-options.php:443 view/elementor-widgets/widgets/buttons.php:334
+msgid "America/Jujuy"
+msgstr ""
+
+#: inc/vc-plugin-options.php:444 view/elementor-widgets/widgets/buttons.php:335
+msgid "America/Juneau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:445 view/elementor-widgets/widgets/buttons.php:336
+msgid "America/Kentucky/Louisville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:446 view/elementor-widgets/widgets/buttons.php:337
+msgid "America/Kentucky/Monticello"
+msgstr ""
+
+#: inc/vc-plugin-options.php:447 view/elementor-widgets/widgets/buttons.php:338
+msgid "America/Knox_IN"
+msgstr ""
+
+#: inc/vc-plugin-options.php:448 view/elementor-widgets/widgets/buttons.php:339
+msgid "America/Kralendijk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:449 view/elementor-widgets/widgets/buttons.php:340
+msgid "America/La_Paz"
+msgstr ""
+
+#: inc/vc-plugin-options.php:450 view/elementor-widgets/widgets/buttons.php:341
+msgid "America/Lima"
+msgstr ""
+
+#: inc/vc-plugin-options.php:451 view/elementor-widgets/widgets/buttons.php:342
+msgid "America/Los_Angeles"
+msgstr ""
+
+#: inc/vc-plugin-options.php:452 view/elementor-widgets/widgets/buttons.php:343
+msgid "America/Louisville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:453 view/elementor-widgets/widgets/buttons.php:344
+msgid "America/Lower_Princes"
+msgstr ""
+
+#: inc/vc-plugin-options.php:454 view/elementor-widgets/widgets/buttons.php:345
+msgid "America/Maceio"
+msgstr ""
+
+#: inc/vc-plugin-options.php:455 view/elementor-widgets/widgets/buttons.php:346
+msgid "America/Managua"
+msgstr ""
+
+#: inc/vc-plugin-options.php:456 view/elementor-widgets/widgets/buttons.php:347
+msgid "America/Manaus"
+msgstr ""
+
+#: inc/vc-plugin-options.php:457 view/elementor-widgets/widgets/buttons.php:348
+msgid "America/Marigot"
+msgstr ""
+
+#: inc/vc-plugin-options.php:458 view/elementor-widgets/widgets/buttons.php:349
+msgid "America/Martinique"
+msgstr ""
+
+#: inc/vc-plugin-options.php:459 view/elementor-widgets/widgets/buttons.php:350
+msgid "America/Matamoros"
+msgstr ""
+
+#: inc/vc-plugin-options.php:460 view/elementor-widgets/widgets/buttons.php:351
+msgid "America/Mazatlan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:461 view/elementor-widgets/widgets/buttons.php:352
+msgid "America/Mendoza"
+msgstr ""
+
+#: inc/vc-plugin-options.php:462 view/elementor-widgets/widgets/buttons.php:353
+msgid "America/Menominee"
+msgstr ""
+
+#: inc/vc-plugin-options.php:463 view/elementor-widgets/widgets/buttons.php:354
+msgid "America/Merida"
+msgstr ""
+
+#: inc/vc-plugin-options.php:464 view/elementor-widgets/widgets/buttons.php:355
+msgid "America/Metlakatla"
+msgstr ""
+
+#: inc/vc-plugin-options.php:465 view/elementor-widgets/widgets/buttons.php:356
+msgid "America/Mexico_City"
+msgstr ""
+
+#: inc/vc-plugin-options.php:466 view/elementor-widgets/widgets/buttons.php:357
+msgid "America/Miquelon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:467 view/elementor-widgets/widgets/buttons.php:358
+msgid "America/Moncton"
+msgstr ""
+
+#: inc/vc-plugin-options.php:468 view/elementor-widgets/widgets/buttons.php:359
+msgid "America/Monterrey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:469 view/elementor-widgets/widgets/buttons.php:360
+msgid "America/Montevideo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:470 view/elementor-widgets/widgets/buttons.php:361
+msgid "America/Montreal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:471 view/elementor-widgets/widgets/buttons.php:362
+msgid "America/Montserrat"
+msgstr ""
+
+#: inc/vc-plugin-options.php:472 view/elementor-widgets/widgets/buttons.php:363
+msgid "America/Nassau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:473 view/elementor-widgets/widgets/buttons.php:364
+msgid "America/New_York"
+msgstr ""
+
+#: inc/vc-plugin-options.php:474 view/elementor-widgets/widgets/buttons.php:365
+msgid "America/Nipigon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:475 view/elementor-widgets/widgets/buttons.php:366
+msgid "America/Nome"
+msgstr ""
+
+#: inc/vc-plugin-options.php:476 view/elementor-widgets/widgets/buttons.php:367
+msgid "America/Noronha"
+msgstr ""
+
+#: inc/vc-plugin-options.php:477 view/elementor-widgets/widgets/buttons.php:368
+msgid "America/North_Dakota/Beulah"
+msgstr ""
+
+#: inc/vc-plugin-options.php:478 view/elementor-widgets/widgets/buttons.php:369
+msgid "America/North_Dakota/Center"
+msgstr ""
+
+#: inc/vc-plugin-options.php:479 view/elementor-widgets/widgets/buttons.php:370
+msgid "America/North_Dakota/New_Salem"
+msgstr ""
+
+#: inc/vc-plugin-options.php:480 view/elementor-widgets/widgets/buttons.php:371
+msgid "America/Ojinaga"
+msgstr ""
+
+#: inc/vc-plugin-options.php:481 view/elementor-widgets/widgets/buttons.php:372
+msgid "America/Panama"
+msgstr ""
+
+#: inc/vc-plugin-options.php:482 view/elementor-widgets/widgets/buttons.php:373
+msgid "America/Pangnirtung"
+msgstr ""
+
+#: inc/vc-plugin-options.php:483 view/elementor-widgets/widgets/buttons.php:374
+msgid "America/Paramaribo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:484 view/elementor-widgets/widgets/buttons.php:375
+msgid "America/Phoenix"
+msgstr ""
+
+#: inc/vc-plugin-options.php:485 view/elementor-widgets/widgets/buttons.php:376
+msgid "America/Port-au-Prince"
+msgstr ""
+
+#: inc/vc-plugin-options.php:486 view/elementor-widgets/widgets/buttons.php:377
+msgid "America/Port_of_Spain"
+msgstr ""
+
+#: inc/vc-plugin-options.php:487 view/elementor-widgets/widgets/buttons.php:378
+msgid "America/Porto_Acre"
+msgstr ""
+
+#: inc/vc-plugin-options.php:488 view/elementor-widgets/widgets/buttons.php:379
+msgid "America/Porto_Velho"
+msgstr ""
+
+#: inc/vc-plugin-options.php:489 view/elementor-widgets/widgets/buttons.php:380
+msgid "America/Puerto_Rico"
+msgstr ""
+
+#: inc/vc-plugin-options.php:490 view/elementor-widgets/widgets/buttons.php:381
+msgid "America/Punta_Arenas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:491 view/elementor-widgets/widgets/buttons.php:382
+msgid "America/Rainy_River"
+msgstr ""
+
+#: inc/vc-plugin-options.php:492 view/elementor-widgets/widgets/buttons.php:383
+msgid "America/Rankin_Inlet"
+msgstr ""
+
+#: inc/vc-plugin-options.php:493 view/elementor-widgets/widgets/buttons.php:384
+msgid "America/Recife"
+msgstr ""
+
+#: inc/vc-plugin-options.php:494 view/elementor-widgets/widgets/buttons.php:385
+msgid "America/Regina"
+msgstr ""
+
+#: inc/vc-plugin-options.php:495 view/elementor-widgets/widgets/buttons.php:386
+msgid "America/Resolute"
+msgstr ""
+
+#: inc/vc-plugin-options.php:496 view/elementor-widgets/widgets/buttons.php:387
+msgid "America/Rio_Branco"
+msgstr ""
+
+#: inc/vc-plugin-options.php:497 view/elementor-widgets/widgets/buttons.php:388
+msgid "America/Rosario"
+msgstr ""
+
+#: inc/vc-plugin-options.php:498 view/elementor-widgets/widgets/buttons.php:389
+msgid "America/Santa_Isabel"
+msgstr ""
+
+#: inc/vc-plugin-options.php:499 view/elementor-widgets/widgets/buttons.php:390
+msgid "America/Santarem"
+msgstr ""
+
+#: inc/vc-plugin-options.php:500 view/elementor-widgets/widgets/buttons.php:391
+msgid "America/Santiago"
+msgstr ""
+
+#: inc/vc-plugin-options.php:501 view/elementor-widgets/widgets/buttons.php:392
+msgid "America/Santo_Domingo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:502 view/elementor-widgets/widgets/buttons.php:393
+msgid "America/Sao_Paulo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:503 view/elementor-widgets/widgets/buttons.php:394
+msgid "America/Scoresbysund"
+msgstr ""
+
+#: inc/vc-plugin-options.php:504 view/elementor-widgets/widgets/buttons.php:395
+msgid "America/Shiprock"
+msgstr ""
+
+#: inc/vc-plugin-options.php:505 view/elementor-widgets/widgets/buttons.php:396
+msgid "America/Sitka"
+msgstr ""
+
+#: inc/vc-plugin-options.php:506 view/elementor-widgets/widgets/buttons.php:397
+msgid "America/St_Barthelemy"
+msgstr ""
+
+#: inc/vc-plugin-options.php:507 view/elementor-widgets/widgets/buttons.php:398
+msgid "America/St_Johns"
+msgstr ""
+
+#: inc/vc-plugin-options.php:508 view/elementor-widgets/widgets/buttons.php:399
+msgid "America/St_Kitts"
+msgstr ""
+
+#: inc/vc-plugin-options.php:509 view/elementor-widgets/widgets/buttons.php:400
+msgid "America/St_Lucia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:510 view/elementor-widgets/widgets/buttons.php:401
+msgid "America/St_Thomas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:511 view/elementor-widgets/widgets/buttons.php:402
+msgid "America/St_Vincent"
+msgstr ""
+
+#: inc/vc-plugin-options.php:512 view/elementor-widgets/widgets/buttons.php:403
+msgid "America/Swift_Current"
+msgstr ""
+
+#: inc/vc-plugin-options.php:513 view/elementor-widgets/widgets/buttons.php:404
+msgid "America/Tegucigalpa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:514 view/elementor-widgets/widgets/buttons.php:405
+msgid "America/Thule"
+msgstr ""
+
+#: inc/vc-plugin-options.php:515 view/elementor-widgets/widgets/buttons.php:406
+msgid "America/Thunder_Bay"
+msgstr ""
+
+#: inc/vc-plugin-options.php:516 view/elementor-widgets/widgets/buttons.php:407
+msgid "America/Tijuana"
+msgstr ""
+
+#: inc/vc-plugin-options.php:517 view/elementor-widgets/widgets/buttons.php:408
+msgid "America/Toronto"
+msgstr ""
+
+#: inc/vc-plugin-options.php:518 view/elementor-widgets/widgets/buttons.php:409
+msgid "America/Tortola"
+msgstr ""
+
+#: inc/vc-plugin-options.php:519 view/elementor-widgets/widgets/buttons.php:410
+msgid "America/Vancouver"
+msgstr ""
+
+#: inc/vc-plugin-options.php:520 view/elementor-widgets/widgets/buttons.php:411
+msgid "America/Virgin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:521 view/elementor-widgets/widgets/buttons.php:412
+msgid "America/Whitehorse"
+msgstr ""
+
+#: inc/vc-plugin-options.php:522 view/elementor-widgets/widgets/buttons.php:413
+msgid "America/Winnipeg"
+msgstr ""
+
+#: inc/vc-plugin-options.php:523 view/elementor-widgets/widgets/buttons.php:414
+msgid "America/Yakutat"
+msgstr ""
+
+#: inc/vc-plugin-options.php:524 view/elementor-widgets/widgets/buttons.php:415
+msgid "America/Yellowknife"
+msgstr ""
+
+#: inc/vc-plugin-options.php:525 view/elementor-widgets/widgets/buttons.php:416
+msgid "Antarctica/Casey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:526 view/elementor-widgets/widgets/buttons.php:417
+msgid "Antarctica/Davis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:527 view/elementor-widgets/widgets/buttons.php:418
+msgid "Antarctica/DumontDUrville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:528 view/elementor-widgets/widgets/buttons.php:419
+msgid "Antarctica/Macquarie"
+msgstr ""
+
+#: inc/vc-plugin-options.php:529 view/elementor-widgets/widgets/buttons.php:420
+msgid "Antarctica/Mawson"
+msgstr ""
+
+#: inc/vc-plugin-options.php:530 view/elementor-widgets/widgets/buttons.php:421
+msgid "Antarctica/McMurdo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:531 view/elementor-widgets/widgets/buttons.php:422
+msgid "Antarctica/Palmer"
+msgstr ""
+
+#: inc/vc-plugin-options.php:532 view/elementor-widgets/widgets/buttons.php:423
+msgid "Antarctica/Rothera"
+msgstr ""
+
+#: inc/vc-plugin-options.php:533 view/elementor-widgets/widgets/buttons.php:424
+msgid "Antarctica/South_Pole"
+msgstr ""
+
+#: inc/vc-plugin-options.php:534 view/elementor-widgets/widgets/buttons.php:425
+msgid "Antarctica/Syowa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:535 view/elementor-widgets/widgets/buttons.php:426
+msgid "Antarctica/Troll"
+msgstr ""
+
+#: inc/vc-plugin-options.php:536 view/elementor-widgets/widgets/buttons.php:427
+msgid "Antarctica/Vostok"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1068
+msgid "Appearance settings"
+msgstr ""
+
+#: inc/vc-plugin-options.php:537 view/elementor-widgets/widgets/buttons.php:428
+msgid "Arctic/Longyearbyen"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:567
+#: admin/csf/classes/admin-options.class.php:681
+msgid "Are you sure to reset this section options?"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:568
+#: admin/csf/classes/admin-options.class.php:682
+msgid "Are you sure you want to reset all settings to default values?"
+msgstr ""
+
+#: inc/vc-plugin-options.php:538 view/elementor-widgets/widgets/buttons.php:429
+msgid "Asia/Aden"
+msgstr ""
+
+#: inc/vc-plugin-options.php:539 view/elementor-widgets/widgets/buttons.php:430
+msgid "Asia/Almaty"
+msgstr ""
+
+#: inc/vc-plugin-options.php:540 view/elementor-widgets/widgets/buttons.php:431
+msgid "Asia/Amman"
+msgstr ""
+
+#: inc/vc-plugin-options.php:541 view/elementor-widgets/widgets/buttons.php:432
+msgid "Asia/Anadyr"
+msgstr ""
+
+#: inc/vc-plugin-options.php:542 view/elementor-widgets/widgets/buttons.php:433
+msgid "Asia/Aqtau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:543 view/elementor-widgets/widgets/buttons.php:434
+msgid "Asia/Aqtobe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:544 view/elementor-widgets/widgets/buttons.php:435
+msgid "Asia/Ashgabat"
+msgstr ""
+
+#: inc/vc-plugin-options.php:545 view/elementor-widgets/widgets/buttons.php:436
+msgid "Asia/Ashkhabad"
+msgstr ""
+
+#: inc/vc-plugin-options.php:546 view/elementor-widgets/widgets/buttons.php:437
+msgid "Asia/Atyrau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:547 view/elementor-widgets/widgets/buttons.php:438
+msgid "Asia/Baghdad"
+msgstr ""
+
+#: inc/vc-plugin-options.php:548 view/elementor-widgets/widgets/buttons.php:439
+msgid "Asia/Bahrain"
+msgstr ""
+
+#: inc/vc-plugin-options.php:549 view/elementor-widgets/widgets/buttons.php:440
+msgid "Asia/Baku"
+msgstr ""
+
+#: inc/vc-plugin-options.php:550 view/elementor-widgets/widgets/buttons.php:441
+msgid "Asia/Bangkok"
+msgstr ""
+
+#: inc/vc-plugin-options.php:551 view/elementor-widgets/widgets/buttons.php:442
+msgid "Asia/Barnaul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:552 view/elementor-widgets/widgets/buttons.php:443
+msgid "Asia/Beirut"
+msgstr ""
+
+#: inc/vc-plugin-options.php:553 view/elementor-widgets/widgets/buttons.php:444
+msgid "Asia/Bishkek"
+msgstr ""
+
+#: inc/vc-plugin-options.php:651 view/elementor-widgets/widgets/buttons.php:542
+msgid "Asia/Broken_Hill"
+msgstr ""
+
+#: inc/vc-plugin-options.php:554 view/elementor-widgets/widgets/buttons.php:445
+msgid "Asia/Brunei"
+msgstr ""
+
+#: inc/vc-plugin-options.php:555 view/elementor-widgets/widgets/buttons.php:446
+msgid "Asia/Calcutta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:556 view/elementor-widgets/widgets/buttons.php:447
+msgid "Asia/Chita"
+msgstr ""
+
+#: inc/vc-plugin-options.php:557 view/elementor-widgets/widgets/buttons.php:448
+msgid "Asia/Choibalsan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:558 view/elementor-widgets/widgets/buttons.php:449
+msgid "Asia/Chongqing"
+msgstr ""
+
+#: inc/vc-plugin-options.php:559 view/elementor-widgets/widgets/buttons.php:450
+msgid "Asia/Chungking"
+msgstr ""
+
+#: inc/vc-plugin-options.php:560 view/elementor-widgets/widgets/buttons.php:451
+msgid "Asia/Colombo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:561 view/elementor-widgets/widgets/buttons.php:452
+msgid "Asia/Dacca"
+msgstr ""
+
+#: inc/vc-plugin-options.php:562 view/elementor-widgets/widgets/buttons.php:453
+msgid "Asia/Damascus"
+msgstr ""
+
+#: inc/vc-plugin-options.php:563 view/elementor-widgets/widgets/buttons.php:454
+msgid "Asia/Dhaka"
+msgstr ""
+
+#: inc/vc-plugin-options.php:564 view/elementor-widgets/widgets/buttons.php:455
+msgid "Asia/Dili"
+msgstr ""
+
+#: inc/vc-plugin-options.php:565 view/elementor-widgets/widgets/buttons.php:456
+msgid "Asia/Dubai"
+msgstr ""
+
+#: inc/vc-plugin-options.php:566 view/elementor-widgets/widgets/buttons.php:457
+msgid "Asia/Dushanbe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:567 view/elementor-widgets/widgets/buttons.php:458
+msgid "Asia/Famagusta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:568 view/elementor-widgets/widgets/buttons.php:459
+msgid "Asia/Gaza"
+msgstr ""
+
+#: inc/vc-plugin-options.php:569 view/elementor-widgets/widgets/buttons.php:460
+msgid "Asia/Harbin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:570 view/elementor-widgets/widgets/buttons.php:461
+msgid "Asia/Hebron"
+msgstr ""
+
+#: inc/vc-plugin-options.php:571 view/elementor-widgets/widgets/buttons.php:462
+msgid "Asia/Ho_Chi_Minh"
+msgstr ""
+
+#: inc/vc-plugin-options.php:572 view/elementor-widgets/widgets/buttons.php:463
+msgid "Asia/Hong_Kong"
+msgstr ""
+
+#: inc/vc-plugin-options.php:573 view/elementor-widgets/widgets/buttons.php:464
+msgid "Asia/Hovd"
+msgstr ""
+
+#: inc/vc-plugin-options.php:574 view/elementor-widgets/widgets/buttons.php:465
+msgid "Asia/Irkutsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:575 view/elementor-widgets/widgets/buttons.php:466
+msgid "Asia/Istanbul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:576 view/elementor-widgets/widgets/buttons.php:467
+msgid "Asia/Jakarta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:577 view/elementor-widgets/widgets/buttons.php:468
+msgid "Asia/Jayapura"
+msgstr ""
+
+#: inc/vc-plugin-options.php:578 view/elementor-widgets/widgets/buttons.php:469
+msgid "Asia/Jerusalem"
+msgstr ""
+
+#: inc/vc-plugin-options.php:579 view/elementor-widgets/widgets/buttons.php:470
+msgid "Asia/Kabul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:580 view/elementor-widgets/widgets/buttons.php:471
+msgid "Asia/Kamchatka"
+msgstr ""
+
+#: inc/vc-plugin-options.php:581 view/elementor-widgets/widgets/buttons.php:472
+msgid "Asia/Karachi"
+msgstr ""
+
+#: inc/vc-plugin-options.php:582 view/elementor-widgets/widgets/buttons.php:473
+msgid "Asia/Kashgar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:583 view/elementor-widgets/widgets/buttons.php:474
+msgid "Asia/Kathmandu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:584 view/elementor-widgets/widgets/buttons.php:475
+msgid "Asia/Katmandu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:585 view/elementor-widgets/widgets/buttons.php:476
+msgid "Asia/Khandyga"
+msgstr ""
+
+#: inc/vc-plugin-options.php:586 view/elementor-widgets/widgets/buttons.php:477
+msgid "Asia/Kolkata"
+msgstr ""
+
+#: inc/vc-plugin-options.php:587 view/elementor-widgets/widgets/buttons.php:478
+msgid "Asia/Krasnoyarsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:588 view/elementor-widgets/widgets/buttons.php:479
+msgid "Asia/Kuala_Lumpur"
+msgstr ""
+
+#: inc/vc-plugin-options.php:589 view/elementor-widgets/widgets/buttons.php:480
+msgid "Asia/Kuching"
+msgstr ""
+
+#: inc/vc-plugin-options.php:590 view/elementor-widgets/widgets/buttons.php:481
+msgid "Asia/Kuwait"
+msgstr ""
+
+#: inc/vc-plugin-options.php:591 view/elementor-widgets/widgets/buttons.php:482
+msgid "Asia/Macao"
+msgstr ""
+
+#: inc/vc-plugin-options.php:592 view/elementor-widgets/widgets/buttons.php:483
+msgid "Asia/Macau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:593 view/elementor-widgets/widgets/buttons.php:484
+msgid "Asia/Magadan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:594 view/elementor-widgets/widgets/buttons.php:485
+msgid "Asia/Makassar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:595 view/elementor-widgets/widgets/buttons.php:486
+msgid "Asia/Manila"
+msgstr ""
+
+#: inc/vc-plugin-options.php:596 view/elementor-widgets/widgets/buttons.php:487
+msgid "Asia/Muscat"
+msgstr ""
+
+#: inc/vc-plugin-options.php:597 view/elementor-widgets/widgets/buttons.php:488
+msgid "Asia/Nicosia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:598 view/elementor-widgets/widgets/buttons.php:489
+msgid "Asia/Novokuznetsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:599 view/elementor-widgets/widgets/buttons.php:490
+msgid "Asia/Novosibirsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:600 view/elementor-widgets/widgets/buttons.php:491
+msgid "Asia/Omsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:601 view/elementor-widgets/widgets/buttons.php:492
+msgid "Asia/Oral"
+msgstr ""
+
+#: inc/vc-plugin-options.php:602 view/elementor-widgets/widgets/buttons.php:493
+msgid "Asia/Phnom_Penh"
+msgstr ""
+
+#: inc/vc-plugin-options.php:603 view/elementor-widgets/widgets/buttons.php:494
+msgid "Asia/Pontianak"
+msgstr ""
+
+#: inc/vc-plugin-options.php:604 view/elementor-widgets/widgets/buttons.php:495
+msgid "Asia/Pyongyang"
+msgstr ""
+
+#: inc/vc-plugin-options.php:605 view/elementor-widgets/widgets/buttons.php:496
+msgid "Asia/Qatar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:606 view/elementor-widgets/widgets/buttons.php:497
+msgid "Asia/Qyzylorda"
+msgstr ""
+
+#: inc/vc-plugin-options.php:607 view/elementor-widgets/widgets/buttons.php:498
+msgid "Asia/Rangoon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:608 view/elementor-widgets/widgets/buttons.php:499
+msgid "Asia/Riyadh"
+msgstr ""
+
+#: inc/vc-plugin-options.php:609 view/elementor-widgets/widgets/buttons.php:500
+msgid "Asia/Saigon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:610 view/elementor-widgets/widgets/buttons.php:501
+msgid "Asia/Sakhalin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:611 view/elementor-widgets/widgets/buttons.php:502
+msgid "Asia/Samarkand"
+msgstr ""
+
+#: inc/vc-plugin-options.php:612 view/elementor-widgets/widgets/buttons.php:503
+msgid "Asia/Seoul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:613 view/elementor-widgets/widgets/buttons.php:504
+msgid "Asia/Shanghai"
+msgstr ""
+
+#: inc/vc-plugin-options.php:614 view/elementor-widgets/widgets/buttons.php:505
+msgid "Asia/Singapore"
+msgstr ""
+
+#: inc/vc-plugin-options.php:615 view/elementor-widgets/widgets/buttons.php:506
+msgid "Asia/Srednekolymsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:616 view/elementor-widgets/widgets/buttons.php:507
+msgid "Asia/Taipei"
+msgstr ""
+
+#: inc/vc-plugin-options.php:617 view/elementor-widgets/widgets/buttons.php:508
+msgid "Asia/Tashkent"
+msgstr ""
+
+#: inc/vc-plugin-options.php:618 view/elementor-widgets/widgets/buttons.php:509
+msgid "Asia/Tbilisi"
+msgstr ""
+
+#: inc/vc-plugin-options.php:619 view/elementor-widgets/widgets/buttons.php:510
+msgid "Asia/Tehran"
+msgstr ""
+
+#: inc/vc-plugin-options.php:620 view/elementor-widgets/widgets/buttons.php:511
+msgid "Asia/Tel_Aviv"
+msgstr ""
+
+#: inc/vc-plugin-options.php:621 view/elementor-widgets/widgets/buttons.php:512
+msgid "Asia/Thimbu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:622 view/elementor-widgets/widgets/buttons.php:513
+msgid "Asia/Thimphu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:623 view/elementor-widgets/widgets/buttons.php:514
+msgid "Asia/Tokyo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:624 view/elementor-widgets/widgets/buttons.php:515
+msgid "Asia/Tomsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:625 view/elementor-widgets/widgets/buttons.php:516
+msgid "Asia/Ujung_Pandang"
+msgstr ""
+
+#: inc/vc-plugin-options.php:626 view/elementor-widgets/widgets/buttons.php:517
+msgid "Asia/Ulaanbaatar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:627 view/elementor-widgets/widgets/buttons.php:518
+msgid "Asia/Ulan_Bator"
+msgstr ""
+
+#: inc/vc-plugin-options.php:628 view/elementor-widgets/widgets/buttons.php:519
+msgid "Asia/Urumqi"
+msgstr ""
+
+#: inc/vc-plugin-options.php:629 view/elementor-widgets/widgets/buttons.php:520
+msgid "Asia/Ust-Nera"
+msgstr ""
+
+#: inc/vc-plugin-options.php:630 view/elementor-widgets/widgets/buttons.php:521
+msgid "Asia/Vientiane"
+msgstr ""
+
+#: inc/vc-plugin-options.php:631 view/elementor-widgets/widgets/buttons.php:522
+msgid "Asia/Vladivostok"
+msgstr ""
+
+#: inc/vc-plugin-options.php:632 view/elementor-widgets/widgets/buttons.php:523
+msgid "Asia/Yakutsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:633 view/elementor-widgets/widgets/buttons.php:524
+msgid "Asia/Yangon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:634 view/elementor-widgets/widgets/buttons.php:525
+msgid "Asia/Yekaterinburg"
+msgstr ""
+
+#: inc/vc-plugin-options.php:635 view/elementor-widgets/widgets/buttons.php:526
+msgid "Asia/Yerevan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:636 view/elementor-widgets/widgets/buttons.php:527
+msgid "Atlantic/Azores"
+msgstr ""
+
+#: inc/vc-plugin-options.php:637 view/elementor-widgets/widgets/buttons.php:528
+msgid "Atlantic/Bermuda"
+msgstr ""
+
+#: inc/vc-plugin-options.php:638 view/elementor-widgets/widgets/buttons.php:529
+msgid "Atlantic/Canary"
+msgstr ""
+
+#: inc/vc-plugin-options.php:639 view/elementor-widgets/widgets/buttons.php:530
+msgid "Atlantic/Cape_Verde"
+msgstr ""
+
+#: inc/vc-plugin-options.php:640 view/elementor-widgets/widgets/buttons.php:531
+msgid "Atlantic/Faeroe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:641 view/elementor-widgets/widgets/buttons.php:532
+msgid "Atlantic/Faroe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:642 view/elementor-widgets/widgets/buttons.php:533
+msgid "Atlantic/Jan_Mayen"
+msgstr ""
+
+#: inc/vc-plugin-options.php:643 view/elementor-widgets/widgets/buttons.php:534
+msgid "Atlantic/Madeira"
+msgstr ""
+
+#: inc/vc-plugin-options.php:644 view/elementor-widgets/widgets/buttons.php:535
+msgid "Atlantic/Reykjavik"
+msgstr ""
+
+#: inc/vc-plugin-options.php:645 view/elementor-widgets/widgets/buttons.php:536
+msgid "Atlantic/South_Georgia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:646 view/elementor-widgets/widgets/buttons.php:537
+msgid "Atlantic/St_Helena"
+msgstr ""
+
+#: inc/vc-plugin-options.php:647 view/elementor-widgets/widgets/buttons.php:538
+msgid "Atlantic/Stanley"
+msgstr ""
+
+#: inc/vc-plugin-options.php:648 view/elementor-widgets/widgets/buttons.php:539
+msgid "Australia/ACT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:649 view/elementor-widgets/widgets/buttons.php:540
+msgid "Australia/Adelaide"
+msgstr ""
+
+#: inc/vc-plugin-options.php:650 view/elementor-widgets/widgets/buttons.php:541
+msgid "Australia/Brisbane"
+msgstr ""
+
+#: inc/vc-plugin-options.php:652 view/elementor-widgets/widgets/buttons.php:543
+msgid "Australia/Canberra"
+msgstr ""
+
+#: inc/vc-plugin-options.php:653 view/elementor-widgets/widgets/buttons.php:544
+msgid "Australia/Currie"
+msgstr ""
+
+#: inc/vc-plugin-options.php:654 view/elementor-widgets/widgets/buttons.php:545
+msgid "Australia/Darwin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:655 view/elementor-widgets/widgets/buttons.php:546
+msgid "Australia/Eucla"
+msgstr ""
+
+#: inc/vc-plugin-options.php:656 view/elementor-widgets/widgets/buttons.php:547
+msgid "Australia/Hobart"
+msgstr ""
+
+#: inc/vc-plugin-options.php:657 view/elementor-widgets/widgets/buttons.php:548
+msgid "Australia/LHI"
+msgstr ""
+
+#: inc/vc-plugin-options.php:658 view/elementor-widgets/widgets/buttons.php:549
+msgid "Australia/Lindeman"
+msgstr ""
+
+#: inc/vc-plugin-options.php:659 view/elementor-widgets/widgets/buttons.php:550
+msgid "Australia/Lord_Howe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:660 view/elementor-widgets/widgets/buttons.php:551
+msgid "Australia/Melbourne"
+msgstr ""
+
+#: inc/vc-plugin-options.php:662 view/elementor-widgets/widgets/buttons.php:553
+msgid "Australia/North"
+msgstr ""
+
+#: inc/vc-plugin-options.php:661 view/elementor-widgets/widgets/buttons.php:552
+msgid "Australia/NSW"
+msgstr ""
+
+#: inc/vc-plugin-options.php:663 view/elementor-widgets/widgets/buttons.php:554
+msgid "Australia/Perth"
+msgstr ""
+
+#: inc/vc-plugin-options.php:664 view/elementor-widgets/widgets/buttons.php:555
+msgid "Australia/Queensland"
+msgstr ""
+
+#: inc/vc-plugin-options.php:665 view/elementor-widgets/widgets/buttons.php:556
+msgid "Australia/South"
+msgstr ""
+
+#: inc/vc-plugin-options.php:666 view/elementor-widgets/widgets/buttons.php:557
+msgid "Australia/Sydney"
+msgstr ""
+
+#: inc/vc-plugin-options.php:667 view/elementor-widgets/widgets/buttons.php:558
+msgid "Australia/Tasmania"
+msgstr ""
+
+#: inc/vc-plugin-options.php:668 view/elementor-widgets/widgets/buttons.php:559
+msgid "Australia/Victoria"
+msgstr ""
+
+#: inc/vc-plugin-options.php:669 view/elementor-widgets/widgets/buttons.php:560
+msgid "Australia/West"
+msgstr ""
+
+#: inc/vc-plugin-options.php:670 view/elementor-widgets/widgets/buttons.php:561
+msgid "Australia/Yancowinna"
+msgstr ""
+
+#: inc/vc-plugin-options.php:83
+msgid "Auto open popup"
+msgstr ""
+
+#: inc/vc-plugin-options.php:291
+msgid "AVAILABLITY"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1109
+msgid "Backgound color"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1077
+msgid "BACKUP"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:80
+msgid "Basic button"
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block description"
+msgid ""
+"Allow your users to send you direct Viber messages by clicking floating chat "
+"button and buttons with vChat block."
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block keyword"
+msgid "chat"
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block keyword"
+msgid "vChat"
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block keyword"
+msgid "viber"
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block keyword"
+msgid "viberChat"
+msgstr ""
+
+#: view/block/block.json:1
+msgctxt "block title"
+msgid "Viber Chat Button"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1159
+#: view/elementor-widgets/widgets/buttons.php:1163
+msgid "Border"
+msgstr ""
+
+#: inc/vc-plugin-options.php:671 view/elementor-widgets/widgets/buttons.php:562
+msgid "Brazil/Acre"
+msgstr ""
+
+#: inc/vc-plugin-options.php:672 view/elementor-widgets/widgets/buttons.php:563
+msgid "Brazil/DeNoronha"
+msgstr ""
+
+#: inc/vc-plugin-options.php:673 view/elementor-widgets/widgets/buttons.php:564
+msgid "Brazil/East"
+msgstr ""
+
+#: inc/vc-plugin-options.php:674 view/elementor-widgets/widgets/buttons.php:565
+msgid "Brazil/West"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:133
+msgid "Button label"
+msgstr ""
+
+#: inc/vc-plugin-options.php:677 view/elementor-widgets/widgets/buttons.php:568
+msgid "Canada/Atlantic"
+msgstr ""
+
+#: inc/vc-plugin-options.php:678 view/elementor-widgets/widgets/buttons.php:569
+msgid "Canada/Central"
+msgstr ""
+
+#: inc/vc-plugin-options.php:679 view/elementor-widgets/widgets/buttons.php:570
+msgid "Canada/Eastern"
+msgstr ""
+
+#: inc/vc-plugin-options.php:680 view/elementor-widgets/widgets/buttons.php:571
+msgid "Canada/Mountain"
+msgstr ""
+
+#: inc/vc-plugin-options.php:681 view/elementor-widgets/widgets/buttons.php:572
+msgid "Canada/Newfoundland"
+msgstr ""
+
+#: inc/vc-plugin-options.php:682 view/elementor-widgets/widgets/buttons.php:573
+msgid "Canada/Pacific"
+msgstr ""
+
+#: inc/vc-plugin-options.php:683 view/elementor-widgets/widgets/buttons.php:574
+msgid "Canada/Saskatchewan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:684 view/elementor-widgets/widgets/buttons.php:575
+msgid "Canada/Yukon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:171
+msgid "Cancel"
+msgstr ""
+
+#: inc/vc-plugin-options.php:170
+msgid "Cancel button text"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1334
+msgid "Center"
+msgstr ""
+
+#: inc/vc-plugin-options.php:675 view/elementor-widgets/widgets/buttons.php:566
+msgid "CET"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1213
+msgid "Change icon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:183
+msgid "Change icon for adding before chat button text."
+msgstr ""
+
+#: inc/vc-plugin-options.php:264
+msgid "Change icon for circle button close."
+msgstr ""
+
+#: inc/vc-plugin-options.php:255
+msgid "Change icon for circle button."
+msgstr ""
+
+#: inc/vc-plugin-options.php:190
+msgid "Chat button text"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:175
+msgid "Chat settings"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:105
+#: view/elementor-widgets/elementor-widget.php:122
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#: inc/vc-plugin-options.php:685 view/elementor-widgets/widgets/buttons.php:576
+msgid "Chile/Continental"
+msgstr ""
+
+#: inc/vc-plugin-options.php:686 view/elementor-widgets/widgets/buttons.php:577
+msgid "Chile/EasterIsland"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1059 inc/vc-plugin-options.php:1066
+msgid ""
+"Copy this shortcode and paste it in any pages/posts/widget. Edit values as "
+"you need."
+msgstr ""
+
+#: inc/vc-plugin-options.php:676 view/elementor-widgets/widgets/buttons.php:567
+msgid "CST6CDT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:687 view/elementor-widgets/widgets/buttons.php:578
+msgid "Cuba"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:308
+msgid "Default settings restored."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1082
+msgid "Desktops only"
+msgstr ""
+
+#: inc/vc-plugin-options.php:161
+msgid "Download button text"
+msgstr ""
+
+#: inc/vc-plugin-options.php:162
+msgid "Download now"
+msgstr ""
+
+#: inc/vc-plugin-options.php:209
+msgid "Ease Down"
+msgstr ""
+
+#: inc/vc-plugin-options.php:688 view/elementor-widgets/widgets/buttons.php:579
+msgid "EET"
+msgstr ""
+
+#: inc/vc-plugin-options.php:691 view/elementor-widgets/widgets/buttons.php:582
+msgid "Egypt"
+msgstr ""
+
+#: inc/vc-plugin-options.php:692 view/elementor-widgets/widgets/buttons.php:583
+msgid "Eire"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:216
+#: view/elementor-widgets/elementor-widget.php:237
+msgid "Elementor"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:819
+#: view/elementor-widgets/widgets/buttons.php:858
+#: view/elementor-widgets/widgets/buttons.php:897
+#: view/elementor-widgets/widgets/buttons.php:936
+#: view/elementor-widgets/widgets/buttons.php:975
+#: view/elementor-widgets/widgets/buttons.php:1014
+#: view/elementor-widgets/widgets/buttons.php:1052
+msgid "End time"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:237
+msgid "Error while saving the changes."
+msgstr ""
+
+#: inc/vc-plugin-options.php:689 view/elementor-widgets/widgets/buttons.php:580
+msgid "EST"
+msgstr ""
+
+#: inc/vc-plugin-options.php:690 view/elementor-widgets/widgets/buttons.php:581
+msgid "EST5EDT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:693 view/elementor-widgets/widgets/buttons.php:584
+msgid "Etc/GMT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:694 view/elementor-widgets/widgets/buttons.php:585
+msgid "Etc/GMT+0"
+msgstr ""
+
+#: inc/vc-plugin-options.php:695 view/elementor-widgets/widgets/buttons.php:586
+msgid "Etc/GMT+1"
+msgstr ""
+
+#: inc/vc-plugin-options.php:696 view/elementor-widgets/widgets/buttons.php:587
+msgid "Etc/GMT+10"
+msgstr ""
+
+#: inc/vc-plugin-options.php:697 view/elementor-widgets/widgets/buttons.php:588
+msgid "Etc/GMT+11"
+msgstr ""
+
+#: inc/vc-plugin-options.php:698 view/elementor-widgets/widgets/buttons.php:589
+msgid "Etc/GMT+12"
+msgstr ""
+
+#: inc/vc-plugin-options.php:699 view/elementor-widgets/widgets/buttons.php:590
+msgid "Etc/GMT+2"
+msgstr ""
+
+#: inc/vc-plugin-options.php:700 view/elementor-widgets/widgets/buttons.php:591
+msgid "Etc/GMT+3"
+msgstr ""
+
+#: inc/vc-plugin-options.php:701 view/elementor-widgets/widgets/buttons.php:592
+msgid "Etc/GMT+4"
+msgstr ""
+
+#: inc/vc-plugin-options.php:702 view/elementor-widgets/widgets/buttons.php:593
+msgid "Etc/GMT+5"
+msgstr ""
+
+#: inc/vc-plugin-options.php:703 view/elementor-widgets/widgets/buttons.php:594
+msgid "Etc/GMT+6"
+msgstr ""
+
+#: inc/vc-plugin-options.php:704 view/elementor-widgets/widgets/buttons.php:595
+msgid "Etc/GMT+7"
+msgstr ""
+
+#: inc/vc-plugin-options.php:705 view/elementor-widgets/widgets/buttons.php:596
+msgid "Etc/GMT+8"
+msgstr ""
+
+#: inc/vc-plugin-options.php:706 view/elementor-widgets/widgets/buttons.php:597
+msgid "Etc/GMT+9"
+msgstr ""
+
+#: inc/vc-plugin-options.php:707 view/elementor-widgets/widgets/buttons.php:598
+msgid "Etc/GMT-0"
+msgstr ""
+
+#: inc/vc-plugin-options.php:708 view/elementor-widgets/widgets/buttons.php:599
+msgid "Etc/GMT-1"
+msgstr ""
+
+#: inc/vc-plugin-options.php:709 view/elementor-widgets/widgets/buttons.php:600
+msgid "Etc/GMT-10"
+msgstr ""
+
+#: inc/vc-plugin-options.php:710 view/elementor-widgets/widgets/buttons.php:601
+msgid "Etc/GMT-11"
+msgstr ""
+
+#: inc/vc-plugin-options.php:711 view/elementor-widgets/widgets/buttons.php:602
+msgid "Etc/GMT-12"
+msgstr ""
+
+#: inc/vc-plugin-options.php:712 view/elementor-widgets/widgets/buttons.php:603
+msgid "Etc/GMT-13"
+msgstr ""
+
+#: inc/vc-plugin-options.php:713 view/elementor-widgets/widgets/buttons.php:604
+msgid "Etc/GMT-14"
+msgstr ""
+
+#: inc/vc-plugin-options.php:714 view/elementor-widgets/widgets/buttons.php:605
+msgid "Etc/GMT-2"
+msgstr ""
+
+#: inc/vc-plugin-options.php:715 view/elementor-widgets/widgets/buttons.php:606
+msgid "Etc/GMT-3"
+msgstr ""
+
+#: inc/vc-plugin-options.php:716 view/elementor-widgets/widgets/buttons.php:607
+msgid "Etc/GMT-4"
+msgstr ""
+
+#: inc/vc-plugin-options.php:717 view/elementor-widgets/widgets/buttons.php:608
+msgid "Etc/GMT-5"
+msgstr ""
+
+#: inc/vc-plugin-options.php:718 view/elementor-widgets/widgets/buttons.php:609
+msgid "Etc/GMT-6"
+msgstr ""
+
+#: inc/vc-plugin-options.php:719 view/elementor-widgets/widgets/buttons.php:610
+msgid "Etc/GMT-7"
+msgstr ""
+
+#: inc/vc-plugin-options.php:720 view/elementor-widgets/widgets/buttons.php:611
+msgid "Etc/GMT-8"
+msgstr ""
+
+#: inc/vc-plugin-options.php:721 view/elementor-widgets/widgets/buttons.php:612
+msgid "Etc/GMT-9"
+msgstr ""
+
+#: inc/vc-plugin-options.php:722 view/elementor-widgets/widgets/buttons.php:613
+msgid "Etc/GMT0"
+msgstr ""
+
+#: inc/vc-plugin-options.php:723 view/elementor-widgets/widgets/buttons.php:614
+msgid "Etc/Greenwich"
+msgstr ""
+
+#: inc/vc-plugin-options.php:724 view/elementor-widgets/widgets/buttons.php:615
+msgid "Etc/UCT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:726 view/elementor-widgets/widgets/buttons.php:617
+msgid "Etc/Universal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:725 view/elementor-widgets/widgets/buttons.php:616
+msgid "Etc/UTC"
+msgstr ""
+
+#: inc/vc-plugin-options.php:727 view/elementor-widgets/widgets/buttons.php:618
+msgid "Etc/Zulu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:728 view/elementor-widgets/widgets/buttons.php:619
+msgid "Europe/Amsterdam"
+msgstr ""
+
+#: inc/vc-plugin-options.php:729 view/elementor-widgets/widgets/buttons.php:620
+msgid "Europe/Andorra"
+msgstr ""
+
+#: inc/vc-plugin-options.php:730 view/elementor-widgets/widgets/buttons.php:621
+msgid "Europe/Astrakhan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:731 view/elementor-widgets/widgets/buttons.php:622
+msgid "Europe/Athens"
+msgstr ""
+
+#: inc/vc-plugin-options.php:732 view/elementor-widgets/widgets/buttons.php:623
+msgid "Europe/Belfast"
+msgstr ""
+
+#: inc/vc-plugin-options.php:733 view/elementor-widgets/widgets/buttons.php:624
+msgid "Europe/Belgrade"
+msgstr ""
+
+#: inc/vc-plugin-options.php:734 view/elementor-widgets/widgets/buttons.php:625
+msgid "Europe/Berlin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:735 view/elementor-widgets/widgets/buttons.php:626
+msgid "Europe/Bratislava"
+msgstr ""
+
+#: inc/vc-plugin-options.php:736 view/elementor-widgets/widgets/buttons.php:627
+msgid "Europe/Brussels"
+msgstr ""
+
+#: inc/vc-plugin-options.php:737 view/elementor-widgets/widgets/buttons.php:628
+msgid "Europe/Bucharest"
+msgstr ""
+
+#: inc/vc-plugin-options.php:738 view/elementor-widgets/widgets/buttons.php:629
+msgid "Europe/Budapest"
+msgstr ""
+
+#: inc/vc-plugin-options.php:739 view/elementor-widgets/widgets/buttons.php:630
+msgid "Europe/Busingen"
+msgstr ""
+
+#: inc/vc-plugin-options.php:740 view/elementor-widgets/widgets/buttons.php:631
+msgid "Europe/Chisinau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:741 view/elementor-widgets/widgets/buttons.php:632
+msgid "Europe/Copenhagen"
+msgstr ""
+
+#: inc/vc-plugin-options.php:742 view/elementor-widgets/widgets/buttons.php:633
+msgid "Europe/Dublin"
+msgstr ""
+
+#: inc/vc-plugin-options.php:743 view/elementor-widgets/widgets/buttons.php:634
+msgid "Europe/Gibraltar"
+msgstr ""
+
+#: inc/vc-plugin-options.php:744 view/elementor-widgets/widgets/buttons.php:635
+msgid "Europe/Guernsey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:745 view/elementor-widgets/widgets/buttons.php:636
+msgid "Europe/Helsinki"
+msgstr ""
+
+#: inc/vc-plugin-options.php:746 view/elementor-widgets/widgets/buttons.php:637
+msgid "Europe/Isle_of_Man"
+msgstr ""
+
+#: inc/vc-plugin-options.php:747 view/elementor-widgets/widgets/buttons.php:638
+msgid "Europe/Istanbul"
+msgstr ""
+
+#: inc/vc-plugin-options.php:748 view/elementor-widgets/widgets/buttons.php:639
+msgid "Europe/Jersey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:749 view/elementor-widgets/widgets/buttons.php:640
+msgid "Europe/Kaliningrad"
+msgstr ""
+
+#: inc/vc-plugin-options.php:750 view/elementor-widgets/widgets/buttons.php:641
+msgid "Europe/Kiev"
+msgstr ""
+
+#: inc/vc-plugin-options.php:751 view/elementor-widgets/widgets/buttons.php:642
+msgid "Europe/Kirov"
+msgstr ""
+
+#: inc/vc-plugin-options.php:752 view/elementor-widgets/widgets/buttons.php:643
+msgid "Europe/Lisbon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:753 view/elementor-widgets/widgets/buttons.php:644
+msgid "Europe/Ljubljana"
+msgstr ""
+
+#: inc/vc-plugin-options.php:754 view/elementor-widgets/widgets/buttons.php:645
+msgid "Europe/London"
+msgstr ""
+
+#: inc/vc-plugin-options.php:755 view/elementor-widgets/widgets/buttons.php:646
+msgid "Europe/Luxembourg"
+msgstr ""
+
+#: inc/vc-plugin-options.php:756 view/elementor-widgets/widgets/buttons.php:647
+msgid "Europe/Madrid"
+msgstr ""
+
+#: inc/vc-plugin-options.php:757 view/elementor-widgets/widgets/buttons.php:648
+msgid "Europe/Malta"
+msgstr ""
+
+#: inc/vc-plugin-options.php:758 view/elementor-widgets/widgets/buttons.php:649
+msgid "Europe/Mariehamn"
+msgstr ""
+
+#: inc/vc-plugin-options.php:759 view/elementor-widgets/widgets/buttons.php:650
+msgid "Europe/Minsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:760 view/elementor-widgets/widgets/buttons.php:651
+msgid "Europe/Monaco"
+msgstr ""
+
+#: inc/vc-plugin-options.php:761 view/elementor-widgets/widgets/buttons.php:652
+msgid "Europe/Moscow"
+msgstr ""
+
+#: inc/vc-plugin-options.php:762 view/elementor-widgets/widgets/buttons.php:653
+msgid "Europe/Nicosia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:763 view/elementor-widgets/widgets/buttons.php:654
+msgid "Europe/Oslo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:764 view/elementor-widgets/widgets/buttons.php:655
+msgid "Europe/Paris"
+msgstr ""
+
+#: inc/vc-plugin-options.php:765 view/elementor-widgets/widgets/buttons.php:656
+msgid "Europe/Podgorica"
+msgstr ""
+
+#: inc/vc-plugin-options.php:766 view/elementor-widgets/widgets/buttons.php:657
+msgid "Europe/Prague"
+msgstr ""
+
+#: inc/vc-plugin-options.php:767 view/elementor-widgets/widgets/buttons.php:658
+msgid "Europe/Riga"
+msgstr ""
+
+#: inc/vc-plugin-options.php:768 view/elementor-widgets/widgets/buttons.php:659
+msgid "Europe/Rome"
+msgstr ""
+
+#: inc/vc-plugin-options.php:769 view/elementor-widgets/widgets/buttons.php:660
+msgid "Europe/Samara"
+msgstr ""
+
+#: inc/vc-plugin-options.php:770 view/elementor-widgets/widgets/buttons.php:661
+msgid "Europe/San_Marino"
+msgstr ""
+
+#: inc/vc-plugin-options.php:771 view/elementor-widgets/widgets/buttons.php:662
+msgid "Europe/Sarajevo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:772 view/elementor-widgets/widgets/buttons.php:663
+msgid "Europe/Saratov"
+msgstr ""
+
+#: inc/vc-plugin-options.php:773 view/elementor-widgets/widgets/buttons.php:664
+msgid "Europe/Simferopol"
+msgstr ""
+
+#: inc/vc-plugin-options.php:774 view/elementor-widgets/widgets/buttons.php:665
+msgid "Europe/Skopje"
+msgstr ""
+
+#: inc/vc-plugin-options.php:775 view/elementor-widgets/widgets/buttons.php:666
+msgid "Europe/Sofia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:776 view/elementor-widgets/widgets/buttons.php:667
+msgid "Europe/Stockholm"
+msgstr ""
+
+#: inc/vc-plugin-options.php:777 view/elementor-widgets/widgets/buttons.php:668
+msgid "Europe/Tallinn"
+msgstr ""
+
+#: inc/vc-plugin-options.php:778 view/elementor-widgets/widgets/buttons.php:669
+msgid "Europe/Tirane"
+msgstr ""
+
+#: inc/vc-plugin-options.php:779 view/elementor-widgets/widgets/buttons.php:670
+msgid "Europe/Tiraspol"
+msgstr ""
+
+#: inc/vc-plugin-options.php:780 view/elementor-widgets/widgets/buttons.php:671
+msgid "Europe/Ulyanovsk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:781 view/elementor-widgets/widgets/buttons.php:672
+msgid "Europe/Uzhgorod"
+msgstr ""
+
+#: inc/vc-plugin-options.php:782 view/elementor-widgets/widgets/buttons.php:673
+msgid "Europe/Vaduz"
+msgstr ""
+
+#: inc/vc-plugin-options.php:783 view/elementor-widgets/widgets/buttons.php:674
+msgid "Europe/Vatican"
+msgstr ""
+
+#: inc/vc-plugin-options.php:784 view/elementor-widgets/widgets/buttons.php:675
+msgid "Europe/Vienna"
+msgstr ""
+
+#: inc/vc-plugin-options.php:785 view/elementor-widgets/widgets/buttons.php:676
+msgid "Europe/Vilnius"
+msgstr ""
+
+#: inc/vc-plugin-options.php:786 view/elementor-widgets/widgets/buttons.php:677
+msgid "Europe/Volgograd"
+msgstr ""
+
+#: inc/vc-plugin-options.php:787 view/elementor-widgets/widgets/buttons.php:678
+msgid "Europe/Warsaw"
+msgstr ""
+
+#: inc/vc-plugin-options.php:788 view/elementor-widgets/widgets/buttons.php:679
+msgid "Europe/Zagreb"
+msgstr ""
+
+#: inc/vc-plugin-options.php:789 view/elementor-widgets/widgets/buttons.php:680
+msgid "Europe/Zaporozhye"
+msgstr ""
+
+#: inc/vc-plugin-options.php:790 view/elementor-widgets/widgets/buttons.php:681
+msgid "Europe/Zurich"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1081
+msgid "Everywhere"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1079
+msgid "Expoert or import to use same settings in different websites."
+msgstr ""
+
+#: inc/vc-plugin-options.php:277
+msgid "Fade"
+msgstr ""
+
+#: inc/vc-plugin-options.php:204
+msgid "Fade Down"
+msgstr ""
+
+#: inc/vc-plugin-options.php:205
+msgid "Fade In Scale"
+msgstr ""
+
+#: inc/vc-plugin-options.php:203
+msgid "Fade Right"
+msgstr ""
+
+#: inc/vc-plugin-options.php:211
+msgid "Flip Horizontal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:213
+msgid "Flip Up"
+msgstr ""
+
+#: inc/vc-plugin-options.php:212
+msgid "Flip Vertical"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1002
+#: view/elementor-widgets/widgets/buttons.php:992
+msgid "Friday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:791 view/elementor-widgets/widgets/buttons.php:682
+msgid "GB"
+msgstr ""
+
+#: inc/vc-plugin-options.php:792 view/elementor-widgets/widgets/buttons.php:683
+msgid "GB-Eire"
+msgstr ""
+
+#: inc/vc-plugin-options.php:24
+msgid "GENERAL"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:56
+msgid "General settings"
+msgstr ""
+
+#: inc/vc-plugin-options.php:793 view/elementor-widgets/widgets/buttons.php:684
+msgid "GMT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:794 view/elementor-widgets/widgets/buttons.php:685
+msgid "GMT+0"
+msgstr ""
+
+#: inc/vc-plugin-options.php:795 view/elementor-widgets/widgets/buttons.php:686
+msgid "GMT-0"
+msgstr ""
+
+#: inc/vc-plugin-options.php:796 view/elementor-widgets/widgets/buttons.php:687
+msgid "GMT0"
+msgstr ""
+
+#: chat-viber-lite.php:100
+msgid "Go Pro!"
+msgstr ""
+
+#: inc/vc-plugin-options.php:797 view/elementor-widgets/widgets/buttons.php:688
+msgid "Greenwich"
+msgstr ""
+
+#: inc/vc-plugin-options.php:76
+msgid ""
+"Hello, Welcome to the site. Please check the below button to chat with me "
+"through Viber."
+msgstr ""
+
+#: inc/vc-plugin-options.php:799 view/elementor-widgets/widgets/buttons.php:690
+msgid "Hongkong"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1121
+msgid "Hover backgound color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1186
+#: view/elementor-widgets/widgets/buttons.php:1191
+msgid "Hover border"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1145
+msgid "Hover text color"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:21
+msgid "How can I help you?"
+msgstr ""
+
+#: inc/vc-plugin-options.php:798 view/elementor-widgets/widgets/buttons.php:689
+msgid "HST"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://themeatelier.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wpchatplugins.com/vchat/"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:22
+msgid "I'm avaiable"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:23
+msgid "I'm offline"
+msgstr ""
+
+#: inc/vc-plugin-options.php:800 view/elementor-widgets/widgets/buttons.php:691
+msgid "Iceland"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1283
+msgid "Icon bg color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1239
+msgid "Icon color"
+msgstr ""
+
+#: inc/vc-plugin-options.php:253
+msgid "Icon for circle button"
+msgstr ""
+
+#: inc/vc-plugin-options.php:262
+msgid "Icon for circle button close "
+msgstr ""
+
+#: inc/vc-plugin-options.php:181
+msgid "Icon for start chat button"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1299
+msgid "Icon hover bg color"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1254
+msgid "Icon hover color"
+msgstr ""
+
+#: inc/vc-plugin-options.php:801 view/elementor-widgets/widgets/buttons.php:692
+msgid "Indian/Antananarivo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:802 view/elementor-widgets/widgets/buttons.php:693
+msgid "Indian/Chagos"
+msgstr ""
+
+#: inc/vc-plugin-options.php:803 view/elementor-widgets/widgets/buttons.php:694
+msgid "Indian/Christmas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:804 view/elementor-widgets/widgets/buttons.php:695
+msgid "Indian/Cocos"
+msgstr ""
+
+#: inc/vc-plugin-options.php:805 view/elementor-widgets/widgets/buttons.php:696
+msgid "Indian/Comoro"
+msgstr ""
+
+#: inc/vc-plugin-options.php:806 view/elementor-widgets/widgets/buttons.php:697
+msgid "Indian/Kerguelen"
+msgstr ""
+
+#: inc/vc-plugin-options.php:807 view/elementor-widgets/widgets/buttons.php:698
+msgid "Indian/Mahe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:808 view/elementor-widgets/widgets/buttons.php:699
+msgid "Indian/Maldives"
+msgstr ""
+
+#: inc/vc-plugin-options.php:809 view/elementor-widgets/widgets/buttons.php:700
+msgid "Indian/Mauritius"
+msgstr ""
+
+#: inc/vc-plugin-options.php:810 view/elementor-widgets/widgets/buttons.php:701
+msgid "Indian/Mayotte"
+msgstr ""
+
+#: inc/vc-plugin-options.php:811 view/elementor-widgets/widgets/buttons.php:702
+msgid "Indian/Reunion"
+msgstr ""
+
+#: inc/vc-plugin-options.php:431 view/elementor-widgets/widgets/buttons.php:322
+msgid "Indiana/Indianapolis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:151
+msgid "Instruction text for install"
+msgstr ""
+
+#: inc/vc-plugin-options.php:152
+msgid ""
+"Instruction text for installing viber apps/software based on their device."
+msgstr ""
+
+#: inc/vc-plugin-options.php:812 view/elementor-widgets/widgets/buttons.php:703
+msgid "Iran"
+msgstr ""
+
+#: inc/vc-plugin-options.php:813 view/elementor-widgets/widgets/buttons.php:704
+msgid "Israel"
+msgstr ""
+
+#: inc/vc-plugin-options.php:814 view/elementor-widgets/widgets/buttons.php:705
+msgid "Jamaica"
+msgstr ""
+
+#: inc/vc-plugin-options.php:815 view/elementor-widgets/widgets/buttons.php:706
+msgid "Japan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:58
+msgid "John Doe"
+msgstr ""
+
+#: inc/vc-plugin-options.php:816 view/elementor-widgets/widgets/buttons.php:707
+msgid "Kwajalein"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1101
+msgid "Large"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1330
+msgid "Left"
+msgstr ""
+
+#: inc/vc-plugin-options.php:817 view/elementor-widgets/widgets/buttons.php:708
+msgid "Libya"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1100
+msgid "Medium"
+msgstr ""
+
+#: inc/vc-plugin-options.php:74
+msgid "Message from agent"
+msgstr ""
+
+#: inc/vc-plugin-options.php:818 view/elementor-widgets/widgets/buttons.php:709
+msgid "MET"
+msgstr ""
+
+#: inc/vc-plugin-options.php:821 view/elementor-widgets/widgets/buttons.php:712
+msgid "Mexico/BajaNorte"
+msgstr ""
+
+#: inc/vc-plugin-options.php:822 view/elementor-widgets/widgets/buttons.php:713
+msgid "Mexico/BajaSur"
+msgstr ""
+
+#: inc/vc-plugin-options.php:823 view/elementor-widgets/widgets/buttons.php:714
+msgid "Mexico/General"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1084
+msgid "Mobile and tablets"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1085
+msgid "Mobile only"
+msgstr ""
+
+#: inc/vc-plugin-options.php:930 view/elementor-widgets/widgets/buttons.php:836
+msgid "Monday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:819 view/elementor-widgets/widgets/buttons.php:710
+msgid "MST"
+msgstr ""
+
+#: inc/vc-plugin-options.php:820 view/elementor-widgets/widgets/buttons.php:711
+msgid "MST7MDT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:826 view/elementor-widgets/widgets/buttons.php:717
+msgid "Navajo"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1272
+#: view/elementor-widgets/widgets/buttons.php:1318
+msgid "No"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:659
+msgid "No data available."
+msgstr ""
+
+#: inc/vc-plugin-options.php:32 view/elementor-widgets/widgets/buttons.php:64
+msgid "Number"
+msgstr ""
+
+#: inc/vc-plugin-options.php:824 view/elementor-widgets/widgets/buttons.php:715
+msgid "NZ"
+msgstr ""
+
+#: inc/vc-plugin-options.php:825 view/elementor-widgets/widgets/buttons.php:716
+msgid "NZ-CHAT"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:158
+msgid "Offline badget text"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:144
+msgid "Online badget text"
+msgstr ""
+
+#: inc/vc-plugin-options.php:829 view/elementor-widgets/widgets/buttons.php:720
+msgid "Pacific/Apia"
+msgstr ""
+
+#: inc/vc-plugin-options.php:830 view/elementor-widgets/widgets/buttons.php:721
+msgid "Pacific/Auckland"
+msgstr ""
+
+#: inc/vc-plugin-options.php:831 view/elementor-widgets/widgets/buttons.php:722
+msgid "Pacific/Bougainville"
+msgstr ""
+
+#: inc/vc-plugin-options.php:832 view/elementor-widgets/widgets/buttons.php:723
+msgid "Pacific/Chatham"
+msgstr ""
+
+#: inc/vc-plugin-options.php:833 view/elementor-widgets/widgets/buttons.php:724
+msgid "Pacific/Chuuk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:834 view/elementor-widgets/widgets/buttons.php:725
+msgid "Pacific/Easter"
+msgstr ""
+
+#: inc/vc-plugin-options.php:835 view/elementor-widgets/widgets/buttons.php:726
+msgid "Pacific/Efate"
+msgstr ""
+
+#: inc/vc-plugin-options.php:836 view/elementor-widgets/widgets/buttons.php:727
+msgid "Pacific/Enderbury"
+msgstr ""
+
+#: inc/vc-plugin-options.php:837 view/elementor-widgets/widgets/buttons.php:728
+msgid "Pacific/Fakaofo"
+msgstr ""
+
+#: inc/vc-plugin-options.php:838 view/elementor-widgets/widgets/buttons.php:729
+msgid "Pacific/Fiji"
+msgstr ""
+
+#: inc/vc-plugin-options.php:839 view/elementor-widgets/widgets/buttons.php:730
+msgid "Pacific/Funafuti"
+msgstr ""
+
+#: inc/vc-plugin-options.php:840 view/elementor-widgets/widgets/buttons.php:731
+msgid "Pacific/Galapagos"
+msgstr ""
+
+#: inc/vc-plugin-options.php:841 view/elementor-widgets/widgets/buttons.php:732
+msgid "Pacific/Gambier"
+msgstr ""
+
+#: inc/vc-plugin-options.php:842 view/elementor-widgets/widgets/buttons.php:733
+msgid "Pacific/Guadalcanal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:843 view/elementor-widgets/widgets/buttons.php:734
+msgid "Pacific/Guam"
+msgstr ""
+
+#: inc/vc-plugin-options.php:844 view/elementor-widgets/widgets/buttons.php:735
+msgid "Pacific/Honolulu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:845 view/elementor-widgets/widgets/buttons.php:736
+msgid "Pacific/Johnston"
+msgstr ""
+
+#: inc/vc-plugin-options.php:846 view/elementor-widgets/widgets/buttons.php:737
+msgid "Pacific/Kiritimati"
+msgstr ""
+
+#: inc/vc-plugin-options.php:847 view/elementor-widgets/widgets/buttons.php:738
+msgid "Pacific/Kosrae"
+msgstr ""
+
+#: inc/vc-plugin-options.php:848 view/elementor-widgets/widgets/buttons.php:739
+msgid "Pacific/Kwajalein"
+msgstr ""
+
+#: inc/vc-plugin-options.php:849 view/elementor-widgets/widgets/buttons.php:740
+msgid "Pacific/Majuro"
+msgstr ""
+
+#: inc/vc-plugin-options.php:850 view/elementor-widgets/widgets/buttons.php:741
+msgid "Pacific/Marquesas"
+msgstr ""
+
+#: inc/vc-plugin-options.php:851 view/elementor-widgets/widgets/buttons.php:742
+msgid "Pacific/Midway"
+msgstr ""
+
+#: inc/vc-plugin-options.php:852 view/elementor-widgets/widgets/buttons.php:743
+msgid "Pacific/Nauru"
+msgstr ""
+
+#: inc/vc-plugin-options.php:853 view/elementor-widgets/widgets/buttons.php:744
+msgid "Pacific/Niue"
+msgstr ""
+
+#: inc/vc-plugin-options.php:854 view/elementor-widgets/widgets/buttons.php:745
+msgid "Pacific/Norfolk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:855 view/elementor-widgets/widgets/buttons.php:746
+msgid "Pacific/Noumea"
+msgstr ""
+
+#: inc/vc-plugin-options.php:856 view/elementor-widgets/widgets/buttons.php:747
+msgid "Pacific/Pago_Pago"
+msgstr ""
+
+#: inc/vc-plugin-options.php:857 view/elementor-widgets/widgets/buttons.php:748
+msgid "Pacific/Palau"
+msgstr ""
+
+#: inc/vc-plugin-options.php:858 view/elementor-widgets/widgets/buttons.php:749
+msgid "Pacific/Pitcairn"
+msgstr ""
+
+#: inc/vc-plugin-options.php:859 view/elementor-widgets/widgets/buttons.php:750
+msgid "Pacific/Pohnpei"
+msgstr ""
+
+#: inc/vc-plugin-options.php:860 view/elementor-widgets/widgets/buttons.php:751
+msgid "Pacific/Ponape"
+msgstr ""
+
+#: inc/vc-plugin-options.php:861 view/elementor-widgets/widgets/buttons.php:752
+msgid "Pacific/Port_Moresby"
+msgstr ""
+
+#: inc/vc-plugin-options.php:862 view/elementor-widgets/widgets/buttons.php:753
+msgid "Pacific/Rarotonga"
+msgstr ""
+
+#: inc/vc-plugin-options.php:863 view/elementor-widgets/widgets/buttons.php:754
+msgid "Pacific/Saipan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:864 view/elementor-widgets/widgets/buttons.php:755
+msgid "Pacific/Samoa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:865 view/elementor-widgets/widgets/buttons.php:756
+msgid "Pacific/Tahiti"
+msgstr ""
+
+#: inc/vc-plugin-options.php:866 view/elementor-widgets/widgets/buttons.php:757
+msgid "Pacific/Tarawa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:867 view/elementor-widgets/widgets/buttons.php:758
+msgid "Pacific/Tongatapu"
+msgstr ""
+
+#: inc/vc-plugin-options.php:868 view/elementor-widgets/widgets/buttons.php:759
+msgid "Pacific/Truk"
+msgstr ""
+
+#: inc/vc-plugin-options.php:869 view/elementor-widgets/widgets/buttons.php:760
+msgid "Pacific/Wake"
+msgstr ""
+
+#: inc/vc-plugin-options.php:870 view/elementor-widgets/widgets/buttons.php:761
+msgid "Pacific/Wallis"
+msgstr ""
+
+#: inc/vc-plugin-options.php:871 view/elementor-widgets/widgets/buttons.php:762
+msgid "Pacific/Yap"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:256
+msgid "PHP"
+msgstr ""
+
+#: inc/vc-plugin-options.php:153
+msgid "Please install the viber app on your device."
+msgstr ""
+
+#: inc/vc-plugin-options.php:872 view/elementor-widgets/widgets/buttons.php:763
+msgid "Poland"
+msgstr ""
+
+#: inc/vc-plugin-options.php:873 view/elementor-widgets/widgets/buttons.php:764
+msgid "Portugal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:827 view/elementor-widgets/widgets/buttons.php:718
+msgid "PRC"
+msgstr ""
+
+#: inc/vc-plugin-options.php:828 view/elementor-widgets/widgets/buttons.php:719
+msgid "PST8PDT"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:568
+#: admin/csf/classes/admin-options.class.php:682
+msgid "Reset"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:568
+#: admin/csf/classes/admin-options.class.php:682
+msgid "Reset All"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:567
+#: admin/csf/classes/admin-options.class.php:681
+msgid "Reset Section"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1338
+msgid "Right"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:19
+msgid "Robert"
+msgstr ""
+
+#: inc/vc-plugin-options.php:874 view/elementor-widgets/widgets/buttons.php:765
+msgid "ROC"
+msgstr ""
+
+#: inc/vc-plugin-options.php:875 view/elementor-widgets/widgets/buttons.php:766
+msgid "ROK"
+msgstr ""
+
+#: inc/vc-plugin-options.php:276
+msgid "Rotate"
+msgstr ""
+
+#: inc/vc-plugin-options.php:210
+msgid "Rotate Left"
+msgstr ""
+
+#: inc/vc-plugin-options.php:206
+msgid "Rotation"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1315
+msgid "Rounded?"
+msgstr ""
+
+#: view/shortcodes/custom-shortcode.php:20
+msgid "Sales Support"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1020
+#: view/elementor-widgets/widgets/buttons.php:1030
+msgid "Saturday"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:566
+#: admin/csf/classes/admin-options.class.php:680
+msgid "Save"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:566
+#: admin/csf/classes/admin-options.class.php:680
+msgid "Saving..."
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:563
+msgid "Search..."
+msgstr ""
+
+#: inc/vc-plugin-options.php:201
+msgid "Select animation for bubble"
+msgstr ""
+
+#: inc/vc-plugin-options.php:273
+msgid "Select animation for circle icon"
+msgstr ""
+
+#: inc/vc-plugin-options.php:1048
+msgid "Select button style"
+msgstr ""
+
+#: inc/vc-plugin-options.php:303 view/elementor-widgets/widgets/buttons.php:195
+msgid "Select timezone"
+msgstr ""
+
+#: inc/vc-plugin-options.php:901
+msgid "Set your availablity based on days."
+msgstr ""
+
+#: chat-viber-lite.php:59
+msgid "Settings"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:382
+msgid "Settings saved."
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:297
+msgid "Settings successfully imported."
+msgstr ""
+
+#: inc/vc-plugin-options.php:1042
+msgid "SHORTCODES"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:561
+msgid "show all settings"
+msgstr ""
+
+#: inc/vc-plugin-options.php:142
+msgid "Show popup for installing viber."
+msgstr ""
+
+#: inc/vc-plugin-options.php:876 view/elementor-widgets/widgets/buttons.php:767
+msgid "Singapore"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1094
+msgid "Size"
+msgstr ""
+
+#: inc/vc-plugin-options.php:208
+msgid "Slide Down"
+msgstr ""
+
+#: inc/vc-plugin-options.php:275
+msgid "Slide down"
+msgstr ""
+
+#: inc/vc-plugin-options.php:207
+msgid "Slide Fall"
+msgstr ""
+
+#: inc/vc-plugin-options.php:215 inc/vc-plugin-options.php:278
+msgid "Slide Up"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1099
+msgid "Small"
+msgstr ""
+
+#: inc/vc-plugin-options.php:192
+msgid "Start chat"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:806
+#: view/elementor-widgets/widgets/buttons.php:845
+#: view/elementor-widgets/widgets/buttons.php:884
+#: view/elementor-widgets/widgets/buttons.php:923
+#: view/elementor-widgets/widgets/buttons.php:962
+#: view/elementor-widgets/widgets/buttons.php:1001
+#: view/elementor-widgets/widgets/buttons.php:1039
+msgid "Start time"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:74
+msgid "Style"
+msgstr ""
+
+#: inc/vc-plugin-options.php:65
+msgid "Subtitle"
+msgstr ""
+
+#: inc/vc-plugin-options.php:912 view/elementor-widgets/widgets/buttons.php:796
+msgid "Sunday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:214
+msgid "Super Scaled"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1083
+msgid "Tablets only"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1133
+msgid "Text color"
+msgstr ""
+
+#. Author of the plugin
+msgid "ThemeAtelier"
+msgstr ""
+
+#: inc/vc-plugin-options.php:984 view/elementor-widgets/widgets/buttons.php:953
+msgid "Thursday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:300 view/elementor-widgets/widgets/buttons.php:188
+msgid "Timezone"
+msgstr ""
+
+#: inc/vc-plugin-options.php:948 view/elementor-widgets/widgets/buttons.php:875
+msgid "Tuesday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:877 view/elementor-widgets/widgets/buttons.php:768
+msgid "Turkey"
+msgstr ""
+
+#: inc/vc-plugin-options.php:84
+msgid "Turn ON for open popup automatically."
+msgstr ""
+
+#: inc/vc-plugin-options.php:67
+msgid "Typically replies within a day"
+msgstr ""
+
+#: inc/vc-plugin-options.php:878 view/elementor-widgets/widgets/buttons.php:769
+msgid "UCT"
+msgstr ""
+
+#: inc/vc-plugin-options.php:893 view/elementor-widgets/widgets/buttons.php:784
+msgid "Universal"
+msgstr ""
+
+#: inc/vc-plugin-options.php:879 view/elementor-widgets/widgets/buttons.php:770
+msgid "US/Alaska"
+msgstr ""
+
+#: inc/vc-plugin-options.php:880 view/elementor-widgets/widgets/buttons.php:771
+msgid "US/Aleutian"
+msgstr ""
+
+#: inc/vc-plugin-options.php:881 view/elementor-widgets/widgets/buttons.php:772
+msgid "US/Arizona"
+msgstr ""
+
+#: inc/vc-plugin-options.php:882 view/elementor-widgets/widgets/buttons.php:773
+msgid "US/Central"
+msgstr ""
+
+#: inc/vc-plugin-options.php:883 view/elementor-widgets/widgets/buttons.php:774
+msgid "US/East-Indiana"
+msgstr ""
+
+#: inc/vc-plugin-options.php:884 view/elementor-widgets/widgets/buttons.php:775
+msgid "US/Eastern"
+msgstr ""
+
+#: inc/vc-plugin-options.php:885 view/elementor-widgets/widgets/buttons.php:776
+msgid "US/Hawaii"
+msgstr ""
+
+#: inc/vc-plugin-options.php:886 view/elementor-widgets/widgets/buttons.php:777
+msgid "US/Indiana-Starke"
+msgstr ""
+
+#: inc/vc-plugin-options.php:887 view/elementor-widgets/widgets/buttons.php:778
+msgid "US/Michigan"
+msgstr ""
+
+#: inc/vc-plugin-options.php:888 view/elementor-widgets/widgets/buttons.php:779
+msgid "US/Mountain"
+msgstr ""
+
+#: inc/vc-plugin-options.php:889 view/elementor-widgets/widgets/buttons.php:780
+msgid "US/Pacific"
+msgstr ""
+
+#: inc/vc-plugin-options.php:890 view/elementor-widgets/widgets/buttons.php:781
+msgid "US/Pacific-New"
+msgstr ""
+
+#: inc/vc-plugin-options.php:891 view/elementor-widgets/widgets/buttons.php:782
+msgid "US/Samoa"
+msgstr ""
+
+#: inc/vc-plugin-options.php:906
+msgid ""
+"Use 00:00 and 00:00 in From and To value if you are full day offline for any "
+"specefic day."
+msgstr ""
+
+#: inc/vc-plugin-options.php:143
+msgid "User will get instraction to install viber in their device."
+msgstr ""
+
+#: inc/vc-plugin-options.php:892 view/elementor-widgets/widgets/buttons.php:783
+msgid "UTC"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:236
+#: view/elementor-widgets/elementor-widget.php:255
+msgid "Vchat"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:34
+msgid "Vchat buttons"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:273
+msgid "Vchat Elements"
+msgstr ""
+
+#: chat-viber-lite.php:88
+msgid "Viber block"
+msgstr ""
+
+#: inc/vc-plugin-options.php:10
+msgid "Viber Chat"
+msgstr ""
+
+#. Name of the plugin
+msgid "Viber Chat Support"
+msgstr ""
+
+#: view/elementor-widgets/elementor-widget.php:215
+msgid "Viber Chat WordPress Plugin"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1076
+msgid "Visibility on"
+msgstr ""
+
+#: inc/vc-plugin-options.php:894 view/elementor-widgets/widgets/buttons.php:785
+msgid "W-SU"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1269
+msgid "Want bg in icon?"
+msgstr ""
+
+#: inc/vc-plugin-options.php:966 view/elementor-widgets/widgets/buttons.php:914
+msgid "Wednesday"
+msgstr ""
+
+#: inc/vc-plugin-options.php:895 view/elementor-widgets/widgets/buttons.php:786
+msgid "WET"
+msgstr ""
+
+#: inc/vc-plugin-options.php:301 view/elementor-widgets/widgets/buttons.php:189
+msgid ""
+"When using the date and time from the user browser you can transform it to "
+"your current timezone (in case your user is in a different timezone)"
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:120
+msgid "Write agent designation to show in button."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:106
+msgid "Write agent name to show in button."
+msgstr ""
+
+#: view/elementor-widgets/widgets/buttons.php:1271
+#: view/elementor-widgets/widgets/buttons.php:1317
+msgid "Yes"
+msgstr ""
+
+#: admin/csf/classes/admin-options.class.php:559
+msgid "You have unsaved changes, save your changes!"
+msgstr ""
+
+#: chat-viber-lite.php:21
+msgid "You should not access this file directly.!"
+msgstr ""

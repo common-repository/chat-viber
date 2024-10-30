@@ -1,0 +1,145 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "create-block/vchat-block",
+	"version": "0.1.0",
+	"title": "Viber Chat Button",
+	"category": "viber-block",
+	"icon": "share-alt",
+	"description": "Allow your users to send you direct Viber messages by clicking floating chat button and buttons with vChat block.",
+	"textdomain": "chat-viber",
+	"editorScript": "file:./build/index.js",
+	"editorStyle": "file:./build/index.css",
+	"style": "file:./build/style-index.css",
+	"keywords": ["viber", "vChat", "chat", "viberChat"],
+	"supports": {
+		"html": false,
+		"color": {
+			"background": true,
+			"text": true,
+			"hover": true
+		},
+		"spacing": {},
+		"typography": {}
+	},
+
+	"example": {
+		"attributes": {
+			"text": "How can I help you?"
+		}
+	},
+	"attributes": {
+		"text": {
+			"type": "string",
+			"default": "How can I help you?"
+		},
+		"info": {
+			"type": "string",
+			"default": "Robert / Sales Support"
+		},
+		"title": {
+			"type": "string",
+			"default": "How can I help you?"
+		},
+		"online": {
+			"type": "string",
+			"default": "I'm available"
+		},
+		"offline": {
+			"type": "string",
+			"default": "I'm offline"
+		},
+		"buttonType": {
+			"type": "string",
+			"default": "basic-button"
+		},
+		"buttonSize": {
+			"type": "string",
+			"default": "size-medium"
+		},
+		"borderRadius": {
+			"type": "string",
+			"default": "border-squared"
+		},
+		"visibility": {
+			"type": "string",
+			"default": ""
+		},
+		"textAlignment": {
+			"type": "string",
+			"default": "left"
+		},
+		"iconTarget": {
+			"type": "boolean",
+			"default": false
+		},
+		"numberInput": {
+			"type": "string",
+			"default": ""
+		},
+		"imageUrl": {
+			"type": "string",
+			"default": ""
+		},
+		"timeZone": {
+			"type": "string",
+			"default": ""
+		},
+		"mondayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"mondayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"tuesdayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"tuesdayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"wednesdayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"wednesdayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"thursdayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"thursdayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"fridayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"fridayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"saturdayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"saturdayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		},
+		"sundayStartTime": {
+			"type": "string",
+			"default": "00:01"
+		},
+		"sundayEndTime": {
+			"type": "string",
+			"default": "23:59"
+		}
+	}
+}
